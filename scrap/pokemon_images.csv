@@ -1,0 +1,1447 @@
+Number,Name,Type,Image URL
+0001,Bulbasaur,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/bulbasaur.jpg
+0002,Ivysaur,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/ivysaur.jpg
+0003,Venusaur,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/venusaur.jpg
+0003,"Venusaur
+Mega Venusaur","GRASS
+POISON",https://img.pokemondb.net/artwork/large/venusaur.jpg
+0004,Charmander,FIRE,https://img.pokemondb.net/artwork/large/charmander.jpg
+0005,Charmeleon,FIRE,https://img.pokemondb.net/artwork/large/charmeleon.jpg
+0006,Charizard,"FIRE
+FLYING",https://img.pokemondb.net/artwork/large/charizard.jpg
+0006,"Charizard
+Mega Charizard X","FIRE
+DRAGON",https://img.pokemondb.net/artwork/large/charizard.jpg
+0006,"Charizard
+Mega Charizard Y","FIRE
+FLYING",https://img.pokemondb.net/artwork/large/charizard.jpg
+0007,Squirtle,WATER,https://img.pokemondb.net/artwork/large/squirtle.jpg
+0008,Wartortle,WATER,https://img.pokemondb.net/artwork/large/wartortle.jpg
+0009,Blastoise,WATER,https://img.pokemondb.net/artwork/large/blastoise.jpg
+0009,"Blastoise
+Mega Blastoise",WATER,https://img.pokemondb.net/artwork/large/blastoise.jpg
+0010,Caterpie,BUG,https://img.pokemondb.net/artwork/large/caterpie.jpg
+0011,Metapod,BUG,https://img.pokemondb.net/artwork/large/metapod.jpg
+0012,Butterfree,"BUG
+FLYING",https://img.pokemondb.net/artwork/large/butterfree.jpg
+0013,Weedle,"BUG
+POISON",https://img.pokemondb.net/artwork/large/weedle.jpg
+0014,Kakuna,"BUG
+POISON",https://img.pokemondb.net/artwork/large/kakuna.jpg
+0015,Beedrill,"BUG
+POISON",https://img.pokemondb.net/artwork/large/beedrill.jpg
+0015,"Beedrill
+Mega Beedrill","BUG
+POISON",https://img.pokemondb.net/artwork/large/beedrill.jpg
+0016,Pidgey,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/pidgey.jpg
+0017,Pidgeotto,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/pidgeotto.jpg
+0018,Pidgeot,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/pidgeot.jpg
+0018,"Pidgeot
+Mega Pidgeot","NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/pidgeot.jpg
+0019,Rattata,NORMAL,https://img.pokemondb.net/artwork/large/rattata.jpg
+0019,"Rattata
+Alolan Rattata","DARK
+NORMAL",https://img.pokemondb.net/artwork/large/rattata.jpg
+0020,Raticate,NORMAL,https://img.pokemondb.net/artwork/large/raticate.jpg
+0020,"Raticate
+Alolan Raticate","DARK
+NORMAL",https://img.pokemondb.net/artwork/large/raticate.jpg
+0021,Spearow,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/spearow.jpg
+0022,Fearow,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/fearow.jpg
+0023,Ekans,POISON,https://img.pokemondb.net/artwork/large/ekans.jpg
+0024,Arbok,POISON,https://img.pokemondb.net/artwork/large/arbok.jpg
+0025,Pikachu,ELECTRIC,https://img.pokemondb.net/artwork/large/pikachu.jpg
+0025,"Pikachu
+Partner Pikachu",ELECTRIC,https://img.pokemondb.net/artwork/large/pikachu.jpg
+0026,Raichu,ELECTRIC,https://img.pokemondb.net/artwork/large/raichu.jpg
+0026,"Raichu
+Alolan Raichu","ELECTRIC
+PSYCHIC",https://img.pokemondb.net/artwork/large/raichu.jpg
+0027,Sandshrew,GROUND,https://img.pokemondb.net/artwork/large/sandshrew.jpg
+0027,"Sandshrew
+Alolan Sandshrew","ICE
+STEEL",https://img.pokemondb.net/artwork/large/sandshrew.jpg
+0028,Sandslash,GROUND,https://img.pokemondb.net/artwork/large/sandslash.jpg
+0028,"Sandslash
+Alolan Sandslash","ICE
+STEEL",https://img.pokemondb.net/artwork/large/sandslash.jpg
+0029,Nidoran♀,POISON,https://img.pokemondb.net/artwork/large/nidoran-f.jpg
+0030,Nidorina,POISON,https://img.pokemondb.net/artwork/large/nidorina.jpg
+0031,Nidoqueen,"POISON
+GROUND",https://img.pokemondb.net/artwork/large/nidoqueen.jpg
+0032,Nidoran♂,POISON,https://img.pokemondb.net/artwork/large/nidoran-m.jpg
+0033,Nidorino,POISON,https://img.pokemondb.net/artwork/large/nidorino.jpg
+0034,Nidoking,"POISON
+GROUND",https://img.pokemondb.net/artwork/large/nidoking.jpg
+0035,Clefairy,FAIRY,https://img.pokemondb.net/artwork/large/clefairy.jpg
+0036,Clefable,FAIRY,https://img.pokemondb.net/artwork/large/clefable.jpg
+0037,Vulpix,FIRE,https://img.pokemondb.net/artwork/large/vulpix.jpg
+0037,"Vulpix
+Alolan Vulpix",ICE,https://img.pokemondb.net/artwork/large/vulpix.jpg
+0038,Ninetales,FIRE,https://img.pokemondb.net/artwork/large/ninetales.jpg
+0038,"Ninetales
+Alolan Ninetales","ICE
+FAIRY",https://img.pokemondb.net/artwork/large/ninetales.jpg
+0039,Jigglypuff,"NORMAL
+FAIRY",https://img.pokemondb.net/artwork/large/jigglypuff.jpg
+0040,Wigglytuff,"NORMAL
+FAIRY",https://img.pokemondb.net/artwork/large/wigglytuff.jpg
+0041,Zubat,"POISON
+FLYING",https://img.pokemondb.net/artwork/large/zubat.jpg
+0042,Golbat,"POISON
+FLYING",https://img.pokemondb.net/artwork/large/golbat.jpg
+0043,Oddish,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/oddish.jpg
+0044,Gloom,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/gloom.jpg
+0045,Vileplume,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/vileplume.jpg
+0046,Paras,"BUG
+GRASS",https://img.pokemondb.net/artwork/large/paras.jpg
+0047,Parasect,"BUG
+GRASS",https://img.pokemondb.net/artwork/large/parasect.jpg
+0048,Venonat,"BUG
+POISON",https://img.pokemondb.net/artwork/large/venonat.jpg
+0049,Venomoth,"BUG
+POISON",https://img.pokemondb.net/artwork/large/venomoth.jpg
+0050,Diglett,GROUND,https://img.pokemondb.net/artwork/large/diglett.jpg
+0050,"Diglett
+Alolan Diglett","GROUND
+STEEL",https://img.pokemondb.net/artwork/large/diglett.jpg
+0051,Dugtrio,GROUND,https://img.pokemondb.net/artwork/large/dugtrio.jpg
+0051,"Dugtrio
+Alolan Dugtrio","GROUND
+STEEL",https://img.pokemondb.net/artwork/large/dugtrio.jpg
+0052,Meowth,NORMAL,https://img.pokemondb.net/artwork/large/meowth.jpg
+0052,"Meowth
+Alolan Meowth",DARK,https://img.pokemondb.net/artwork/large/meowth.jpg
+0052,"Meowth
+Galarian Meowth",STEEL,https://img.pokemondb.net/artwork/large/meowth.jpg
+0053,Persian,NORMAL,https://img.pokemondb.net/artwork/large/persian.jpg
+0053,"Persian
+Alolan Persian",DARK,https://img.pokemondb.net/artwork/large/persian.jpg
+0054,Psyduck,WATER,https://img.pokemondb.net/artwork/large/psyduck.jpg
+0055,Golduck,WATER,https://img.pokemondb.net/artwork/large/golduck.jpg
+0056,Mankey,FIGHTING,https://img.pokemondb.net/artwork/large/mankey.jpg
+0057,Primeape,FIGHTING,https://img.pokemondb.net/artwork/large/primeape.jpg
+0058,Growlithe,FIRE,https://img.pokemondb.net/artwork/large/growlithe.jpg
+0058,"Growlithe
+Hisuian Growlithe","FIRE
+ROCK",https://img.pokemondb.net/artwork/large/growlithe.jpg
+0059,Arcanine,FIRE,https://img.pokemondb.net/artwork/large/arcanine.jpg
+0059,"Arcanine
+Hisuian Arcanine","FIRE
+ROCK",https://img.pokemondb.net/artwork/large/arcanine.jpg
+0060,Poliwag,WATER,https://img.pokemondb.net/artwork/large/poliwag.jpg
+0061,Poliwhirl,WATER,https://img.pokemondb.net/artwork/large/poliwhirl.jpg
+0062,Poliwrath,"WATER
+FIGHTING",https://img.pokemondb.net/artwork/large/poliwrath.jpg
+0063,Abra,PSYCHIC,https://img.pokemondb.net/artwork/large/abra.jpg
+0064,Kadabra,PSYCHIC,https://img.pokemondb.net/artwork/large/kadabra.jpg
+0065,Alakazam,PSYCHIC,https://img.pokemondb.net/artwork/large/alakazam.jpg
+0065,"Alakazam
+Mega Alakazam",PSYCHIC,https://img.pokemondb.net/artwork/large/alakazam.jpg
+0066,Machop,FIGHTING,https://img.pokemondb.net/artwork/large/machop.jpg
+0067,Machoke,FIGHTING,https://img.pokemondb.net/artwork/large/machoke.jpg
+0068,Machamp,FIGHTING,https://img.pokemondb.net/artwork/large/machamp.jpg
+0069,Bellsprout,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/bellsprout.jpg
+0070,Weepinbell,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/weepinbell.jpg
+0071,Victreebel,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/victreebel.jpg
+0072,Tentacool,"WATER
+POISON",https://img.pokemondb.net/artwork/large/tentacool.jpg
+0073,Tentacruel,"WATER
+POISON",https://img.pokemondb.net/artwork/large/tentacruel.jpg
+0074,Geodude,"ROCK
+GROUND",https://img.pokemondb.net/artwork/large/geodude.jpg
+0074,"Geodude
+Alolan Geodude","ROCK
+ELECTRIC",https://img.pokemondb.net/artwork/large/geodude.jpg
+0075,Graveler,"ROCK
+GROUND",https://img.pokemondb.net/artwork/large/graveler.jpg
+0075,"Graveler
+Alolan Graveler","ROCK
+ELECTRIC",https://img.pokemondb.net/artwork/large/graveler.jpg
+0076,Golem,"ROCK
+GROUND",https://img.pokemondb.net/artwork/large/golem.jpg
+0076,"Golem
+Alolan Golem","ROCK
+ELECTRIC",https://img.pokemondb.net/artwork/large/golem.jpg
+0077,Ponyta,FIRE,https://img.pokemondb.net/artwork/large/ponyta.jpg
+0077,"Ponyta
+Galarian Ponyta",PSYCHIC,https://img.pokemondb.net/artwork/large/ponyta.jpg
+0078,Rapidash,FIRE,https://img.pokemondb.net/artwork/large/rapidash.jpg
+0078,"Rapidash
+Galarian Rapidash","PSYCHIC
+FAIRY",https://img.pokemondb.net/artwork/large/rapidash.jpg
+0079,Slowpoke,"WATER
+PSYCHIC",https://img.pokemondb.net/artwork/large/slowpoke.jpg
+0079,"Slowpoke
+Galarian Slowpoke",PSYCHIC,https://img.pokemondb.net/artwork/large/slowpoke.jpg
+0080,Slowbro,"WATER
+PSYCHIC",https://img.pokemondb.net/artwork/large/slowbro.jpg
+0080,"Slowbro
+Mega Slowbro","WATER
+PSYCHIC",https://img.pokemondb.net/artwork/large/slowbro.jpg
+0080,"Slowbro
+Galarian Slowbro","POISON
+PSYCHIC",https://img.pokemondb.net/artwork/large/slowbro.jpg
+0081,Magnemite,"ELECTRIC
+STEEL",https://img.pokemondb.net/artwork/large/magnemite.jpg
+0082,Magneton,"ELECTRIC
+STEEL",https://img.pokemondb.net/artwork/large/magneton.jpg
+0083,Farfetch'd,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/farfetchd.jpg
+0083,"Farfetch'd
+Galarian Farfetch'd",FIGHTING,https://img.pokemondb.net/artwork/large/farfetchd.jpg
+0084,Doduo,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/doduo.jpg
+0085,Dodrio,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/dodrio.jpg
+0086,Seel,WATER,https://img.pokemondb.net/artwork/large/seel.jpg
+0087,Dewgong,"WATER
+ICE",https://img.pokemondb.net/artwork/large/dewgong.jpg
+0088,Grimer,POISON,https://img.pokemondb.net/artwork/large/grimer.jpg
+0088,"Grimer
+Alolan Grimer","POISON
+DARK",https://img.pokemondb.net/artwork/large/grimer.jpg
+0089,Muk,POISON,https://img.pokemondb.net/artwork/large/muk.jpg
+0089,"Muk
+Alolan Muk","POISON
+DARK",https://img.pokemondb.net/artwork/large/muk.jpg
+0090,Shellder,WATER,https://img.pokemondb.net/artwork/large/shellder.jpg
+0091,Cloyster,"WATER
+ICE",https://img.pokemondb.net/artwork/large/cloyster.jpg
+0092,Gastly,"GHOST
+POISON",https://img.pokemondb.net/artwork/large/gastly.jpg
+0093,Haunter,"GHOST
+POISON",https://img.pokemondb.net/artwork/large/haunter.jpg
+0094,Gengar,"GHOST
+POISON",https://img.pokemondb.net/artwork/large/gengar.jpg
+0094,"Gengar
+Mega Gengar","GHOST
+POISON",https://img.pokemondb.net/artwork/large/gengar.jpg
+0095,Onix,"ROCK
+GROUND",https://img.pokemondb.net/artwork/large/onix.jpg
+0096,Drowzee,PSYCHIC,https://img.pokemondb.net/artwork/large/drowzee.jpg
+0097,Hypno,PSYCHIC,https://img.pokemondb.net/artwork/large/hypno.jpg
+0098,Krabby,WATER,https://img.pokemondb.net/artwork/large/krabby.jpg
+0099,Kingler,WATER,https://img.pokemondb.net/artwork/large/kingler.jpg
+0100,Voltorb,ELECTRIC,https://img.pokemondb.net/artwork/large/voltorb.jpg
+0100,"Voltorb
+Hisuian Voltorb","ELECTRIC
+GRASS",https://img.pokemondb.net/artwork/large/voltorb.jpg
+0101,Electrode,ELECTRIC,https://img.pokemondb.net/artwork/large/electrode.jpg
+0101,"Electrode
+Hisuian Electrode","ELECTRIC
+GRASS",https://img.pokemondb.net/artwork/large/electrode.jpg
+0102,Exeggcute,"GRASS
+PSYCHIC",https://img.pokemondb.net/artwork/large/exeggcute.jpg
+0103,Exeggutor,"GRASS
+PSYCHIC",https://img.pokemondb.net/artwork/large/exeggutor.jpg
+0103,"Exeggutor
+Alolan Exeggutor","GRASS
+DRAGON",https://img.pokemondb.net/artwork/large/exeggutor.jpg
+0104,Cubone,GROUND,https://img.pokemondb.net/artwork/large/cubone.jpg
+0105,Marowak,GROUND,https://img.pokemondb.net/artwork/large/marowak.jpg
+0105,"Marowak
+Alolan Marowak","FIRE
+GHOST",https://img.pokemondb.net/artwork/large/marowak.jpg
+0106,Hitmonlee,FIGHTING,https://img.pokemondb.net/artwork/large/hitmonlee.jpg
+0107,Hitmonchan,FIGHTING,https://img.pokemondb.net/artwork/large/hitmonchan.jpg
+0108,Lickitung,NORMAL,https://img.pokemondb.net/artwork/large/lickitung.jpg
+0109,Koffing,POISON,https://img.pokemondb.net/artwork/large/koffing.jpg
+0110,Weezing,POISON,https://img.pokemondb.net/artwork/large/weezing.jpg
+0110,"Weezing
+Galarian Weezing","POISON
+FAIRY",https://img.pokemondb.net/artwork/large/weezing.jpg
+0111,Rhyhorn,"GROUND
+ROCK",https://img.pokemondb.net/artwork/large/rhyhorn.jpg
+0112,Rhydon,"GROUND
+ROCK",https://img.pokemondb.net/artwork/large/rhydon.jpg
+0113,Chansey,NORMAL,https://img.pokemondb.net/artwork/large/chansey.jpg
+0114,Tangela,GRASS,https://img.pokemondb.net/artwork/large/tangela.jpg
+0115,Kangaskhan,NORMAL,https://img.pokemondb.net/artwork/large/kangaskhan.jpg
+0115,"Kangaskhan
+Mega Kangaskhan",NORMAL,https://img.pokemondb.net/artwork/large/kangaskhan.jpg
+0116,Horsea,WATER,https://img.pokemondb.net/artwork/large/horsea.jpg
+0117,Seadra,WATER,https://img.pokemondb.net/artwork/large/seadra.jpg
+0118,Goldeen,WATER,https://img.pokemondb.net/artwork/large/goldeen.jpg
+0119,Seaking,WATER,https://img.pokemondb.net/artwork/large/seaking.jpg
+0120,Staryu,WATER,https://img.pokemondb.net/artwork/large/staryu.jpg
+0121,Starmie,"WATER
+PSYCHIC",https://img.pokemondb.net/artwork/large/starmie.jpg
+0122,Mr. Mime,"PSYCHIC
+FAIRY",https://img.pokemondb.net/artwork/large/mr-mime.jpg
+0122,"Mr. Mime
+Galarian Mr. Mime","ICE
+PSYCHIC",https://img.pokemondb.net/artwork/large/mr-mime.jpg
+0123,Scyther,"BUG
+FLYING",https://img.pokemondb.net/artwork/large/scyther.jpg
+0124,Jynx,"ICE
+PSYCHIC",https://img.pokemondb.net/artwork/large/jynx.jpg
+0125,Electabuzz,ELECTRIC,https://img.pokemondb.net/artwork/large/electabuzz.jpg
+0126,Magmar,FIRE,https://img.pokemondb.net/artwork/large/magmar.jpg
+0127,Pinsir,BUG,https://img.pokemondb.net/artwork/large/pinsir.jpg
+0127,"Pinsir
+Mega Pinsir","BUG
+FLYING",https://img.pokemondb.net/artwork/large/pinsir.jpg
+0128,Tauros,NORMAL,https://img.pokemondb.net/artwork/large/tauros.jpg
+0128,"Tauros
+Combat Breed",FIGHTING,https://img.pokemondb.net/artwork/large/tauros.jpg
+0128,"Tauros
+Blaze Breed","FIGHTING
+FIRE",https://img.pokemondb.net/artwork/large/tauros.jpg
+0128,"Tauros
+Aqua Breed","FIGHTING
+WATER",https://img.pokemondb.net/artwork/large/tauros.jpg
+0129,Magikarp,WATER,https://img.pokemondb.net/artwork/large/magikarp.jpg
+0130,Gyarados,"WATER
+FLYING",https://img.pokemondb.net/artwork/large/gyarados.jpg
+0130,"Gyarados
+Mega Gyarados","WATER
+DARK",https://img.pokemondb.net/artwork/large/gyarados.jpg
+0131,Lapras,"WATER
+ICE",https://img.pokemondb.net/artwork/large/lapras.jpg
+0132,Ditto,NORMAL,https://img.pokemondb.net/artwork/large/ditto.jpg
+0133,Eevee,NORMAL,https://img.pokemondb.net/artwork/large/eevee.jpg
+0133,"Eevee
+Partner Eevee",NORMAL,https://img.pokemondb.net/artwork/large/eevee.jpg
+0134,Vaporeon,WATER,https://img.pokemondb.net/artwork/large/vaporeon.jpg
+0135,Jolteon,ELECTRIC,https://img.pokemondb.net/artwork/large/jolteon.jpg
+0136,Flareon,FIRE,https://img.pokemondb.net/artwork/large/flareon.jpg
+0137,Porygon,NORMAL,https://img.pokemondb.net/artwork/large/porygon.jpg
+0138,Omanyte,"ROCK
+WATER",https://img.pokemondb.net/artwork/large/omanyte.jpg
+0139,Omastar,"ROCK
+WATER",https://img.pokemondb.net/artwork/large/omastar.jpg
+0140,Kabuto,"ROCK
+WATER",https://img.pokemondb.net/artwork/large/kabuto.jpg
+0141,Kabutops,"ROCK
+WATER",https://img.pokemondb.net/artwork/large/kabutops.jpg
+0142,Aerodactyl,"ROCK
+FLYING",https://img.pokemondb.net/artwork/large/aerodactyl.jpg
+0142,"Aerodactyl
+Mega Aerodactyl","ROCK
+FLYING",https://img.pokemondb.net/artwork/large/aerodactyl.jpg
+0143,Snorlax,NORMAL,https://img.pokemondb.net/artwork/large/snorlax.jpg
+0144,Articuno,"ICE
+FLYING",https://img.pokemondb.net/artwork/large/articuno.jpg
+0144,"Articuno
+Galarian Articuno","PSYCHIC
+FLYING",https://img.pokemondb.net/artwork/large/articuno.jpg
+0145,Zapdos,"ELECTRIC
+FLYING",https://img.pokemondb.net/artwork/large/zapdos.jpg
+0145,"Zapdos
+Galarian Zapdos","FIGHTING
+FLYING",https://img.pokemondb.net/artwork/large/zapdos.jpg
+0146,Moltres,"FIRE
+FLYING",https://img.pokemondb.net/artwork/large/moltres.jpg
+0146,"Moltres
+Galarian Moltres","DARK
+FLYING",https://img.pokemondb.net/artwork/large/moltres.jpg
+0147,Dratini,DRAGON,https://img.pokemondb.net/artwork/large/dratini.jpg
+0148,Dragonair,DRAGON,https://img.pokemondb.net/artwork/large/dragonair.jpg
+0149,Dragonite,"DRAGON
+FLYING",https://img.pokemondb.net/artwork/large/dragonite.jpg
+0150,Mewtwo,PSYCHIC,https://img.pokemondb.net/artwork/large/mewtwo.jpg
+0150,"Mewtwo
+Mega Mewtwo X","PSYCHIC
+FIGHTING",https://img.pokemondb.net/artwork/large/mewtwo.jpg
+0150,"Mewtwo
+Mega Mewtwo Y",PSYCHIC,https://img.pokemondb.net/artwork/large/mewtwo.jpg
+0151,Mew,PSYCHIC,https://img.pokemondb.net/artwork/large/mew.jpg
+0152,Chikorita,GRASS,https://img.pokemondb.net/artwork/large/chikorita.jpg
+0153,Bayleef,GRASS,https://img.pokemondb.net/artwork/large/bayleef.jpg
+0154,Meganium,GRASS,https://img.pokemondb.net/artwork/large/meganium.jpg
+0155,Cyndaquil,FIRE,https://img.pokemondb.net/artwork/large/cyndaquil.jpg
+0156,Quilava,FIRE,https://img.pokemondb.net/artwork/large/quilava.jpg
+0157,Typhlosion,FIRE,https://img.pokemondb.net/artwork/large/typhlosion.jpg
+0157,"Typhlosion
+Hisuian Typhlosion","FIRE
+GHOST",https://img.pokemondb.net/artwork/large/typhlosion.jpg
+0158,Totodile,WATER,https://img.pokemondb.net/artwork/large/totodile.jpg
+0159,Croconaw,WATER,https://img.pokemondb.net/artwork/large/croconaw.jpg
+0160,Feraligatr,WATER,https://img.pokemondb.net/artwork/large/feraligatr.jpg
+0161,Sentret,NORMAL,https://img.pokemondb.net/artwork/large/sentret.jpg
+0162,Furret,NORMAL,https://img.pokemondb.net/artwork/large/furret.jpg
+0163,Hoothoot,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/hoothoot.jpg
+0164,Noctowl,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/noctowl.jpg
+0165,Ledyba,"BUG
+FLYING",https://img.pokemondb.net/artwork/large/ledyba.jpg
+0166,Ledian,"BUG
+FLYING",https://img.pokemondb.net/artwork/large/ledian.jpg
+0167,Spinarak,"BUG
+POISON",https://img.pokemondb.net/artwork/large/spinarak.jpg
+0168,Ariados,"BUG
+POISON",https://img.pokemondb.net/artwork/large/ariados.jpg
+0169,Crobat,"POISON
+FLYING",https://img.pokemondb.net/artwork/large/crobat.jpg
+0170,Chinchou,"WATER
+ELECTRIC",https://img.pokemondb.net/artwork/large/chinchou.jpg
+0171,Lanturn,"WATER
+ELECTRIC",https://img.pokemondb.net/artwork/large/lanturn.jpg
+0172,Pichu,ELECTRIC,https://img.pokemondb.net/artwork/large/pichu.jpg
+0173,Cleffa,FAIRY,https://img.pokemondb.net/artwork/large/cleffa.jpg
+0174,Igglybuff,"NORMAL
+FAIRY",https://img.pokemondb.net/artwork/large/igglybuff.jpg
+0175,Togepi,FAIRY,https://img.pokemondb.net/artwork/large/togepi.jpg
+0176,Togetic,"FAIRY
+FLYING",https://img.pokemondb.net/artwork/large/togetic.jpg
+0177,Natu,"PSYCHIC
+FLYING",https://img.pokemondb.net/artwork/large/natu.jpg
+0178,Xatu,"PSYCHIC
+FLYING",https://img.pokemondb.net/artwork/large/xatu.jpg
+0179,Mareep,ELECTRIC,https://img.pokemondb.net/artwork/large/mareep.jpg
+0180,Flaaffy,ELECTRIC,https://img.pokemondb.net/artwork/large/flaaffy.jpg
+0181,Ampharos,ELECTRIC,https://img.pokemondb.net/artwork/large/ampharos.jpg
+0181,"Ampharos
+Mega Ampharos","ELECTRIC
+DRAGON",https://img.pokemondb.net/artwork/large/ampharos.jpg
+0182,Bellossom,GRASS,https://img.pokemondb.net/artwork/large/bellossom.jpg
+0183,Marill,"WATER
+FAIRY",https://img.pokemondb.net/artwork/large/marill.jpg
+0184,Azumarill,"WATER
+FAIRY",https://img.pokemondb.net/artwork/large/azumarill.jpg
+0185,Sudowoodo,ROCK,https://img.pokemondb.net/artwork/large/sudowoodo.jpg
+0186,Politoed,WATER,https://img.pokemondb.net/artwork/large/politoed.jpg
+0187,Hoppip,"GRASS
+FLYING",https://img.pokemondb.net/artwork/large/hoppip.jpg
+0188,Skiploom,"GRASS
+FLYING",https://img.pokemondb.net/artwork/large/skiploom.jpg
+0189,Jumpluff,"GRASS
+FLYING",https://img.pokemondb.net/artwork/large/jumpluff.jpg
+0190,Aipom,NORMAL,https://img.pokemondb.net/artwork/large/aipom.jpg
+0191,Sunkern,GRASS,https://img.pokemondb.net/artwork/large/sunkern.jpg
+0192,Sunflora,GRASS,https://img.pokemondb.net/artwork/large/sunflora.jpg
+0193,Yanma,"BUG
+FLYING",https://img.pokemondb.net/artwork/large/yanma.jpg
+0194,Wooper,"WATER
+GROUND",https://img.pokemondb.net/artwork/large/wooper.jpg
+0194,"Wooper
+Paldean Wooper","POISON
+GROUND",https://img.pokemondb.net/artwork/large/wooper.jpg
+0195,Quagsire,"WATER
+GROUND",https://img.pokemondb.net/artwork/large/quagsire.jpg
+0196,Espeon,PSYCHIC,https://img.pokemondb.net/artwork/large/espeon.jpg
+0197,Umbreon,DARK,https://img.pokemondb.net/artwork/large/umbreon.jpg
+0198,Murkrow,"DARK
+FLYING",https://img.pokemondb.net/artwork/large/murkrow.jpg
+0199,Slowking,"WATER
+PSYCHIC",https://img.pokemondb.net/artwork/large/slowking.jpg
+0199,"Slowking
+Galarian Slowking","POISON
+PSYCHIC",https://img.pokemondb.net/artwork/large/slowking.jpg
+0200,Misdreavus,GHOST,https://img.pokemondb.net/artwork/large/misdreavus.jpg
+0201,Unown,PSYCHIC,https://img.pokemondb.net/artwork/large/unown.jpg
+0202,Wobbuffet,PSYCHIC,https://img.pokemondb.net/artwork/large/wobbuffet.jpg
+0203,Girafarig,"NORMAL
+PSYCHIC",https://img.pokemondb.net/artwork/large/girafarig.jpg
+0204,Pineco,BUG,https://img.pokemondb.net/artwork/large/pineco.jpg
+0205,Forretress,"BUG
+STEEL",https://img.pokemondb.net/artwork/large/forretress.jpg
+0206,Dunsparce,NORMAL,https://img.pokemondb.net/artwork/large/dunsparce.jpg
+0207,Gligar,"GROUND
+FLYING",https://img.pokemondb.net/artwork/large/gligar.jpg
+0208,Steelix,"STEEL
+GROUND",https://img.pokemondb.net/artwork/large/steelix.jpg
+0208,"Steelix
+Mega Steelix","STEEL
+GROUND",https://img.pokemondb.net/artwork/large/steelix.jpg
+0209,Snubbull,FAIRY,https://img.pokemondb.net/artwork/large/snubbull.jpg
+0210,Granbull,FAIRY,https://img.pokemondb.net/artwork/large/granbull.jpg
+0211,Qwilfish,"WATER
+POISON",https://img.pokemondb.net/artwork/large/qwilfish.jpg
+0211,"Qwilfish
+Hisuian Qwilfish","DARK
+POISON",https://img.pokemondb.net/artwork/large/qwilfish.jpg
+0212,Scizor,"BUG
+STEEL",https://img.pokemondb.net/artwork/large/scizor.jpg
+0212,"Scizor
+Mega Scizor","BUG
+STEEL",https://img.pokemondb.net/artwork/large/scizor.jpg
+0213,Shuckle,"BUG
+ROCK",https://img.pokemondb.net/artwork/large/shuckle.jpg
+0214,Heracross,"BUG
+FIGHTING",https://img.pokemondb.net/artwork/large/heracross.jpg
+0214,"Heracross
+Mega Heracross","BUG
+FIGHTING",https://img.pokemondb.net/artwork/large/heracross.jpg
+0215,Sneasel,"DARK
+ICE",https://img.pokemondb.net/artwork/large/sneasel.jpg
+0215,"Sneasel
+Hisuian Sneasel","FIGHTING
+POISON",https://img.pokemondb.net/artwork/large/sneasel.jpg
+0216,Teddiursa,NORMAL,https://img.pokemondb.net/artwork/large/teddiursa.jpg
+0217,Ursaring,NORMAL,https://img.pokemondb.net/artwork/large/ursaring.jpg
+0218,Slugma,FIRE,https://img.pokemondb.net/artwork/large/slugma.jpg
+0219,Magcargo,"FIRE
+ROCK",https://img.pokemondb.net/artwork/large/magcargo.jpg
+0220,Swinub,"ICE
+GROUND",https://img.pokemondb.net/artwork/large/swinub.jpg
+0221,Piloswine,"ICE
+GROUND",https://img.pokemondb.net/artwork/large/piloswine.jpg
+0222,Corsola,"WATER
+ROCK",https://img.pokemondb.net/artwork/large/corsola.jpg
+0222,"Corsola
+Galarian Corsola",GHOST,https://img.pokemondb.net/artwork/large/corsola.jpg
+0223,Remoraid,WATER,https://img.pokemondb.net/artwork/large/remoraid.jpg
+0224,Octillery,WATER,https://img.pokemondb.net/artwork/large/octillery.jpg
+0225,Delibird,"ICE
+FLYING",https://img.pokemondb.net/artwork/large/delibird.jpg
+0226,Mantine,"WATER
+FLYING",https://img.pokemondb.net/artwork/large/mantine.jpg
+0227,Skarmory,"STEEL
+FLYING",https://img.pokemondb.net/artwork/large/skarmory.jpg
+0228,Houndour,"DARK
+FIRE",https://img.pokemondb.net/artwork/large/houndour.jpg
+0229,Houndoom,"DARK
+FIRE",https://img.pokemondb.net/artwork/large/houndoom.jpg
+0229,"Houndoom
+Mega Houndoom","DARK
+FIRE",https://img.pokemondb.net/artwork/large/houndoom.jpg
+0230,Kingdra,"WATER
+DRAGON",https://img.pokemondb.net/artwork/large/kingdra.jpg
+0231,Phanpy,GROUND,https://img.pokemondb.net/artwork/large/phanpy.jpg
+0232,Donphan,GROUND,https://img.pokemondb.net/artwork/large/donphan.jpg
+0233,Porygon2,NORMAL,https://img.pokemondb.net/artwork/large/porygon2.jpg
+0234,Stantler,NORMAL,https://img.pokemondb.net/artwork/large/stantler.jpg
+0235,Smeargle,NORMAL,https://img.pokemondb.net/artwork/large/smeargle.jpg
+0236,Tyrogue,FIGHTING,https://img.pokemondb.net/artwork/large/tyrogue.jpg
+0237,Hitmontop,FIGHTING,https://img.pokemondb.net/artwork/large/hitmontop.jpg
+0238,Smoochum,"ICE
+PSYCHIC",https://img.pokemondb.net/artwork/large/smoochum.jpg
+0239,Elekid,ELECTRIC,https://img.pokemondb.net/artwork/large/elekid.jpg
+0240,Magby,FIRE,https://img.pokemondb.net/artwork/large/magby.jpg
+0241,Miltank,NORMAL,https://img.pokemondb.net/artwork/large/miltank.jpg
+0242,Blissey,NORMAL,https://img.pokemondb.net/artwork/large/blissey.jpg
+0243,Raikou,ELECTRIC,https://img.pokemondb.net/artwork/large/raikou.jpg
+0244,Entei,FIRE,https://img.pokemondb.net/artwork/large/entei.jpg
+0245,Suicune,WATER,https://img.pokemondb.net/artwork/large/suicune.jpg
+0246,Larvitar,"ROCK
+GROUND",https://img.pokemondb.net/artwork/large/larvitar.jpg
+0247,Pupitar,"ROCK
+GROUND",https://img.pokemondb.net/artwork/large/pupitar.jpg
+0248,Tyranitar,"ROCK
+DARK",https://img.pokemondb.net/artwork/large/tyranitar.jpg
+0248,"Tyranitar
+Mega Tyranitar","ROCK
+DARK",https://img.pokemondb.net/artwork/large/tyranitar.jpg
+0249,Lugia,"PSYCHIC
+FLYING",https://img.pokemondb.net/artwork/large/lugia.jpg
+0250,Ho-oh,"FIRE
+FLYING",https://img.pokemondb.net/artwork/large/ho-oh.jpg
+0251,Celebi,"PSYCHIC
+GRASS",https://img.pokemondb.net/artwork/large/celebi.jpg
+0252,Treecko,GRASS,https://img.pokemondb.net/artwork/large/treecko.jpg
+0253,Grovyle,GRASS,https://img.pokemondb.net/artwork/large/grovyle.jpg
+0254,Sceptile,GRASS,https://img.pokemondb.net/artwork/large/sceptile.jpg
+0254,"Sceptile
+Mega Sceptile","GRASS
+DRAGON",https://img.pokemondb.net/artwork/large/sceptile.jpg
+0255,Torchic,FIRE,https://img.pokemondb.net/artwork/large/torchic.jpg
+0256,Combusken,"FIRE
+FIGHTING",https://img.pokemondb.net/artwork/large/combusken.jpg
+0257,Blaziken,"FIRE
+FIGHTING",https://img.pokemondb.net/artwork/large/blaziken.jpg
+0257,"Blaziken
+Mega Blaziken","FIRE
+FIGHTING",https://img.pokemondb.net/artwork/large/blaziken.jpg
+0258,Mudkip,WATER,https://img.pokemondb.net/artwork/large/mudkip.jpg
+0259,Marshtomp,"WATER
+GROUND",https://img.pokemondb.net/artwork/large/marshtomp.jpg
+0260,Swampert,"WATER
+GROUND",https://img.pokemondb.net/artwork/large/swampert.jpg
+0260,"Swampert
+Mega Swampert","WATER
+GROUND",https://img.pokemondb.net/artwork/large/swampert.jpg
+0261,Poochyena,DARK,https://img.pokemondb.net/artwork/large/poochyena.jpg
+0262,Mightyena,DARK,https://img.pokemondb.net/artwork/large/mightyena.jpg
+0263,Zigzagoon,NORMAL,https://img.pokemondb.net/artwork/large/zigzagoon.jpg
+0263,"Zigzagoon
+Galarian Zigzagoon","DARK
+NORMAL",https://img.pokemondb.net/artwork/large/zigzagoon.jpg
+0264,Linoone,NORMAL,https://img.pokemondb.net/artwork/large/linoone.jpg
+0264,"Linoone
+Galarian Linoone","DARK
+NORMAL",https://img.pokemondb.net/artwork/large/linoone.jpg
+0265,Wurmple,BUG,https://img.pokemondb.net/artwork/large/wurmple.jpg
+0266,Silcoon,BUG,https://img.pokemondb.net/artwork/large/silcoon.jpg
+0267,Beautifly,"BUG
+FLYING",https://img.pokemondb.net/artwork/large/beautifly.jpg
+0268,Cascoon,BUG,https://img.pokemondb.net/artwork/large/cascoon.jpg
+0269,Dustox,"BUG
+POISON",https://img.pokemondb.net/artwork/large/dustox.jpg
+0270,Lotad,"WATER
+GRASS",https://img.pokemondb.net/artwork/large/lotad.jpg
+0271,Lombre,"WATER
+GRASS",https://img.pokemondb.net/artwork/large/lombre.jpg
+0272,Ludicolo,"WATER
+GRASS",https://img.pokemondb.net/artwork/large/ludicolo.jpg
+0273,Seedot,GRASS,https://img.pokemondb.net/artwork/large/seedot.jpg
+0274,Nuzleaf,"GRASS
+DARK",https://img.pokemondb.net/artwork/large/nuzleaf.jpg
+0275,Shiftry,"GRASS
+DARK",https://img.pokemondb.net/artwork/large/shiftry.jpg
+0276,Taillow,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/taillow.jpg
+0277,Swellow,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/swellow.jpg
+0278,Wingull,"WATER
+FLYING",https://img.pokemondb.net/artwork/large/wingull.jpg
+0279,Pelipper,"WATER
+FLYING",https://img.pokemondb.net/artwork/large/pelipper.jpg
+0280,Ralts,"PSYCHIC
+FAIRY",https://img.pokemondb.net/artwork/large/ralts.jpg
+0281,Kirlia,"PSYCHIC
+FAIRY",https://img.pokemondb.net/artwork/large/kirlia.jpg
+0282,Gardevoir,"PSYCHIC
+FAIRY",https://img.pokemondb.net/artwork/large/gardevoir.jpg
+0282,"Gardevoir
+Mega Gardevoir","PSYCHIC
+FAIRY",https://img.pokemondb.net/artwork/large/gardevoir.jpg
+0283,Surskit,"BUG
+WATER",https://img.pokemondb.net/artwork/large/surskit.jpg
+0284,Masquerain,"BUG
+FLYING",https://img.pokemondb.net/artwork/large/masquerain.jpg
+0285,Shroomish,GRASS,https://img.pokemondb.net/artwork/large/shroomish.jpg
+0286,Breloom,"GRASS
+FIGHTING",https://img.pokemondb.net/artwork/large/breloom.jpg
+0287,Slakoth,NORMAL,https://img.pokemondb.net/artwork/large/slakoth.jpg
+0288,Vigoroth,NORMAL,https://img.pokemondb.net/artwork/large/vigoroth.jpg
+0289,Slaking,NORMAL,https://img.pokemondb.net/artwork/large/slaking.jpg
+0290,Nincada,"BUG
+GROUND",https://img.pokemondb.net/artwork/large/nincada.jpg
+0291,Ninjask,"BUG
+FLYING",https://img.pokemondb.net/artwork/large/ninjask.jpg
+0292,Shedinja,"BUG
+GHOST",https://img.pokemondb.net/artwork/large/shedinja.jpg
+0293,Whismur,NORMAL,https://img.pokemondb.net/artwork/large/whismur.jpg
+0294,Loudred,NORMAL,https://img.pokemondb.net/artwork/large/loudred.jpg
+0295,Exploud,NORMAL,https://img.pokemondb.net/artwork/large/exploud.jpg
+0296,Makuhita,FIGHTING,https://img.pokemondb.net/artwork/large/makuhita.jpg
+0297,Hariyama,FIGHTING,https://img.pokemondb.net/artwork/large/hariyama.jpg
+0298,Azurill,"NORMAL
+FAIRY",https://img.pokemondb.net/artwork/large/azurill.jpg
+0299,Nosepass,ROCK,https://img.pokemondb.net/artwork/large/nosepass.jpg
+0300,Skitty,NORMAL,https://img.pokemondb.net/artwork/large/skitty.jpg
+0301,Delcatty,NORMAL,https://img.pokemondb.net/artwork/large/delcatty.jpg
+0302,Sableye,"DARK
+GHOST",https://img.pokemondb.net/artwork/large/sableye.jpg
+0302,"Sableye
+Mega Sableye","DARK
+GHOST",https://img.pokemondb.net/artwork/large/sableye.jpg
+0303,Mawile,"STEEL
+FAIRY",https://img.pokemondb.net/artwork/large/mawile.jpg
+0303,"Mawile
+Mega Mawile","STEEL
+FAIRY",https://img.pokemondb.net/artwork/large/mawile.jpg
+0304,Aron,"STEEL
+ROCK",https://img.pokemondb.net/artwork/large/aron.jpg
+0305,Lairon,"STEEL
+ROCK",https://img.pokemondb.net/artwork/large/lairon.jpg
+0306,Aggron,"STEEL
+ROCK",https://img.pokemondb.net/artwork/large/aggron.jpg
+0306,"Aggron
+Mega Aggron",STEEL,https://img.pokemondb.net/artwork/large/aggron.jpg
+0307,Meditite,"FIGHTING
+PSYCHIC",https://img.pokemondb.net/artwork/large/meditite.jpg
+0308,Medicham,"FIGHTING
+PSYCHIC",https://img.pokemondb.net/artwork/large/medicham.jpg
+0308,"Medicham
+Mega Medicham","FIGHTING
+PSYCHIC",https://img.pokemondb.net/artwork/large/medicham.jpg
+0309,Electrike,ELECTRIC,https://img.pokemondb.net/artwork/large/electrike.jpg
+0310,Manectric,ELECTRIC,https://img.pokemondb.net/artwork/large/manectric.jpg
+0310,"Manectric
+Mega Manectric",ELECTRIC,https://img.pokemondb.net/artwork/large/manectric.jpg
+0311,Plusle,ELECTRIC,https://img.pokemondb.net/artwork/large/plusle.jpg
+0312,Minun,ELECTRIC,https://img.pokemondb.net/artwork/large/minun.jpg
+0313,Volbeat,BUG,https://img.pokemondb.net/artwork/large/volbeat.jpg
+0314,Illumise,BUG,https://img.pokemondb.net/artwork/large/illumise.jpg
+0315,Roselia,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/roselia.jpg
+0316,Gulpin,POISON,https://img.pokemondb.net/artwork/large/gulpin.jpg
+0317,Swalot,POISON,https://img.pokemondb.net/artwork/large/swalot.jpg
+0318,Carvanha,"WATER
+DARK",https://img.pokemondb.net/artwork/large/carvanha.jpg
+0319,Sharpedo,"WATER
+DARK",https://img.pokemondb.net/artwork/large/sharpedo.jpg
+0319,"Sharpedo
+Mega Sharpedo","WATER
+DARK",https://img.pokemondb.net/artwork/large/sharpedo.jpg
+0320,Wailmer,WATER,https://img.pokemondb.net/artwork/large/wailmer.jpg
+0321,Wailord,WATER,https://img.pokemondb.net/artwork/large/wailord.jpg
+0322,Numel,"FIRE
+GROUND",https://img.pokemondb.net/artwork/large/numel.jpg
+0323,Camerupt,"FIRE
+GROUND",https://img.pokemondb.net/artwork/large/camerupt.jpg
+0323,"Camerupt
+Mega Camerupt","FIRE
+GROUND",https://img.pokemondb.net/artwork/large/camerupt.jpg
+0324,Torkoal,FIRE,https://img.pokemondb.net/artwork/large/torkoal.jpg
+0325,Spoink,PSYCHIC,https://img.pokemondb.net/artwork/large/spoink.jpg
+0326,Grumpig,PSYCHIC,https://img.pokemondb.net/artwork/large/grumpig.jpg
+0327,Spinda,NORMAL,https://img.pokemondb.net/artwork/large/spinda.jpg
+0328,Trapinch,GROUND,https://img.pokemondb.net/artwork/large/trapinch.jpg
+0329,Vibrava,"GROUND
+DRAGON",https://img.pokemondb.net/artwork/large/vibrava.jpg
+0330,Flygon,"GROUND
+DRAGON",https://img.pokemondb.net/artwork/large/flygon.jpg
+0331,Cacnea,GRASS,https://img.pokemondb.net/artwork/large/cacnea.jpg
+0332,Cacturne,"GRASS
+DARK",https://img.pokemondb.net/artwork/large/cacturne.jpg
+0333,Swablu,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/swablu.jpg
+0334,Altaria,"DRAGON
+FLYING",https://img.pokemondb.net/artwork/large/altaria.jpg
+0334,"Altaria
+Mega Altaria","DRAGON
+FAIRY",https://img.pokemondb.net/artwork/large/altaria.jpg
+0335,Zangoose,NORMAL,https://img.pokemondb.net/artwork/large/zangoose.jpg
+0336,Seviper,POISON,https://img.pokemondb.net/artwork/large/seviper.jpg
+0337,Lunatone,"ROCK
+PSYCHIC",https://img.pokemondb.net/artwork/large/lunatone.jpg
+0338,Solrock,"ROCK
+PSYCHIC",https://img.pokemondb.net/artwork/large/solrock.jpg
+0339,Barboach,"WATER
+GROUND",https://img.pokemondb.net/artwork/large/barboach.jpg
+0340,Whiscash,"WATER
+GROUND",https://img.pokemondb.net/artwork/large/whiscash.jpg
+0341,Corphish,WATER,https://img.pokemondb.net/artwork/large/corphish.jpg
+0342,Crawdaunt,"WATER
+DARK",https://img.pokemondb.net/artwork/large/crawdaunt.jpg
+0343,Baltoy,"GROUND
+PSYCHIC",https://img.pokemondb.net/artwork/large/baltoy.jpg
+0344,Claydol,"GROUND
+PSYCHIC",https://img.pokemondb.net/artwork/large/claydol.jpg
+0345,Lileep,"ROCK
+GRASS",https://img.pokemondb.net/artwork/large/lileep.jpg
+0346,Cradily,"ROCK
+GRASS",https://img.pokemondb.net/artwork/large/cradily.jpg
+0347,Anorith,"ROCK
+BUG",https://img.pokemondb.net/artwork/large/anorith.jpg
+0348,Armaldo,"ROCK
+BUG",https://img.pokemondb.net/artwork/large/armaldo.jpg
+0349,Feebas,WATER,https://img.pokemondb.net/artwork/large/feebas.jpg
+0350,Milotic,WATER,https://img.pokemondb.net/artwork/large/milotic.jpg
+0351,Castform,NORMAL,https://img.pokemondb.net/artwork/large/castform.jpg
+0351,"Castform
+Sunny Form",FIRE,https://img.pokemondb.net/artwork/large/castform.jpg
+0351,"Castform
+Rainy Form",WATER,https://img.pokemondb.net/artwork/large/castform.jpg
+0351,"Castform
+Snowy Form",ICE,https://img.pokemondb.net/artwork/large/castform.jpg
+0352,Kecleon,NORMAL,https://img.pokemondb.net/artwork/large/kecleon.jpg
+0353,Shuppet,GHOST,https://img.pokemondb.net/artwork/large/shuppet.jpg
+0354,Banette,GHOST,https://img.pokemondb.net/artwork/large/banette.jpg
+0354,"Banette
+Mega Banette",GHOST,https://img.pokemondb.net/artwork/large/banette.jpg
+0355,Duskull,GHOST,https://img.pokemondb.net/artwork/large/duskull.jpg
+0356,Dusclops,GHOST,https://img.pokemondb.net/artwork/large/dusclops.jpg
+0357,Tropius,"GRASS
+FLYING",https://img.pokemondb.net/artwork/large/tropius.jpg
+0358,Chimecho,PSYCHIC,https://img.pokemondb.net/artwork/large/chimecho.jpg
+0359,Absol,DARK,https://img.pokemondb.net/artwork/large/absol.jpg
+0359,"Absol
+Mega Absol",DARK,https://img.pokemondb.net/artwork/large/absol.jpg
+0360,Wynaut,PSYCHIC,https://img.pokemondb.net/artwork/large/wynaut.jpg
+0361,Snorunt,ICE,https://img.pokemondb.net/artwork/large/snorunt.jpg
+0362,Glalie,ICE,https://img.pokemondb.net/artwork/large/glalie.jpg
+0362,"Glalie
+Mega Glalie",ICE,https://img.pokemondb.net/artwork/large/glalie.jpg
+0363,Spheal,"ICE
+WATER",https://img.pokemondb.net/artwork/large/spheal.jpg
+0364,Sealeo,"ICE
+WATER",https://img.pokemondb.net/artwork/large/sealeo.jpg
+0365,Walrein,"ICE
+WATER",https://img.pokemondb.net/artwork/large/walrein.jpg
+0366,Clamperl,WATER,https://img.pokemondb.net/artwork/large/clamperl.jpg
+0367,Huntail,WATER,https://img.pokemondb.net/artwork/large/huntail.jpg
+0368,Gorebyss,WATER,https://img.pokemondb.net/artwork/large/gorebyss.jpg
+0369,Relicanth,"WATER
+ROCK",https://img.pokemondb.net/artwork/large/relicanth.jpg
+0370,Luvdisc,WATER,https://img.pokemondb.net/artwork/large/luvdisc.jpg
+0371,Bagon,DRAGON,https://img.pokemondb.net/artwork/large/bagon.jpg
+0372,Shelgon,DRAGON,https://img.pokemondb.net/artwork/large/shelgon.jpg
+0373,Salamence,"DRAGON
+FLYING",https://img.pokemondb.net/artwork/large/salamence.jpg
+0373,"Salamence
+Mega Salamence","DRAGON
+FLYING",https://img.pokemondb.net/artwork/large/salamence.jpg
+0374,Beldum,"STEEL
+PSYCHIC",https://img.pokemondb.net/artwork/large/beldum.jpg
+0375,Metang,"STEEL
+PSYCHIC",https://img.pokemondb.net/artwork/large/metang.jpg
+0376,Metagross,"STEEL
+PSYCHIC",https://img.pokemondb.net/artwork/large/metagross.jpg
+0376,"Metagross
+Mega Metagross","STEEL
+PSYCHIC",https://img.pokemondb.net/artwork/large/metagross.jpg
+0377,Regirock,ROCK,https://img.pokemondb.net/artwork/large/regirock.jpg
+0378,Regice,ICE,https://img.pokemondb.net/artwork/large/regice.jpg
+0379,Registeel,STEEL,https://img.pokemondb.net/artwork/large/registeel.jpg
+0380,Latias,"DRAGON
+PSYCHIC",https://img.pokemondb.net/artwork/large/latias.jpg
+0380,"Latias
+Mega Latias","DRAGON
+PSYCHIC",https://img.pokemondb.net/artwork/large/latias.jpg
+0381,Latios,"DRAGON
+PSYCHIC",https://img.pokemondb.net/artwork/large/latios.jpg
+0381,"Latios
+Mega Latios","DRAGON
+PSYCHIC",https://img.pokemondb.net/artwork/large/latios.jpg
+0382,Kyogre,WATER,https://img.pokemondb.net/artwork/large/kyogre.jpg
+0382,"Kyogre
+Primal Kyogre",WATER,https://img.pokemondb.net/artwork/large/kyogre.jpg
+0383,Groudon,GROUND,https://img.pokemondb.net/artwork/large/groudon.jpg
+0383,"Groudon
+Primal Groudon","GROUND
+FIRE",https://img.pokemondb.net/artwork/large/groudon.jpg
+0384,Rayquaza,"DRAGON
+FLYING",https://img.pokemondb.net/artwork/large/rayquaza.jpg
+0384,"Rayquaza
+Mega Rayquaza","DRAGON
+FLYING",https://img.pokemondb.net/artwork/large/rayquaza.jpg
+0385,Jirachi,"STEEL
+PSYCHIC",https://img.pokemondb.net/artwork/large/jirachi.jpg
+0386,"Deoxys
+Normal Forme",PSYCHIC,https://img.pokemondb.net/artwork/large/deoxys-normal.jpg
+0386,"Deoxys
+Attack Forme",PSYCHIC,https://img.pokemondb.net/artwork/large/deoxys-normal.jpg
+0386,"Deoxys
+Defense Forme",PSYCHIC,https://img.pokemondb.net/artwork/large/deoxys-normal.jpg
+0386,"Deoxys
+Speed Forme",PSYCHIC,https://img.pokemondb.net/artwork/large/deoxys-normal.jpg
+0387,Turtwig,GRASS,https://img.pokemondb.net/artwork/large/turtwig.jpg
+0388,Grotle,GRASS,https://img.pokemondb.net/artwork/large/grotle.jpg
+0389,Torterra,"GRASS
+GROUND",https://img.pokemondb.net/artwork/large/torterra.jpg
+0390,Chimchar,FIRE,https://img.pokemondb.net/artwork/large/chimchar.jpg
+0391,Monferno,"FIRE
+FIGHTING",https://img.pokemondb.net/artwork/large/monferno.jpg
+0392,Infernape,"FIRE
+FIGHTING",https://img.pokemondb.net/artwork/large/infernape.jpg
+0393,Piplup,WATER,https://img.pokemondb.net/artwork/large/piplup.jpg
+0394,Prinplup,WATER,https://img.pokemondb.net/artwork/large/prinplup.jpg
+0395,Empoleon,"WATER
+STEEL",https://img.pokemondb.net/artwork/large/empoleon.jpg
+0396,Starly,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/starly.jpg
+0397,Staravia,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/staravia.jpg
+0398,Staraptor,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/staraptor.jpg
+0399,Bidoof,NORMAL,https://img.pokemondb.net/artwork/large/bidoof.jpg
+0400,Bibarel,"NORMAL
+WATER",https://img.pokemondb.net/artwork/large/bibarel.jpg
+0401,Kricketot,BUG,https://img.pokemondb.net/artwork/large/kricketot.jpg
+0402,Kricketune,BUG,https://img.pokemondb.net/artwork/large/kricketune.jpg
+0403,Shinx,ELECTRIC,https://img.pokemondb.net/artwork/large/shinx.jpg
+0404,Luxio,ELECTRIC,https://img.pokemondb.net/artwork/large/luxio.jpg
+0405,Luxray,ELECTRIC,https://img.pokemondb.net/artwork/large/luxray.jpg
+0406,Budew,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/budew.jpg
+0407,Roserade,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/roserade.jpg
+0408,Cranidos,ROCK,https://img.pokemondb.net/artwork/large/cranidos.jpg
+0409,Rampardos,ROCK,https://img.pokemondb.net/artwork/large/rampardos.jpg
+0410,Shieldon,"ROCK
+STEEL",https://img.pokemondb.net/artwork/large/shieldon.jpg
+0411,Bastiodon,"ROCK
+STEEL",https://img.pokemondb.net/artwork/large/bastiodon.jpg
+0412,"Burmy
+Plant Cloak",BUG,https://img.pokemondb.net/artwork/large/burmy-plant.jpg
+0412,"Burmy
+Sandy Cloak",BUG,https://img.pokemondb.net/artwork/large/burmy-plant.jpg
+0412,"Burmy
+Trash Cloak",BUG,https://img.pokemondb.net/artwork/large/burmy-plant.jpg
+0413,"Wormadam
+Plant Cloak","BUG
+GRASS",https://img.pokemondb.net/artwork/large/wormadam-plant.jpg
+0413,"Wormadam
+Sandy Cloak","BUG
+GROUND",https://img.pokemondb.net/artwork/large/wormadam-plant.jpg
+0413,"Wormadam
+Trash Cloak","BUG
+STEEL",https://img.pokemondb.net/artwork/large/wormadam-plant.jpg
+0414,Mothim,"BUG
+FLYING",https://img.pokemondb.net/artwork/large/mothim.jpg
+0415,Combee,"BUG
+FLYING",https://img.pokemondb.net/artwork/large/combee.jpg
+0416,Vespiquen,"BUG
+FLYING",https://img.pokemondb.net/artwork/large/vespiquen.jpg
+0417,Pachirisu,ELECTRIC,https://img.pokemondb.net/artwork/large/pachirisu.jpg
+0418,Buizel,WATER,https://img.pokemondb.net/artwork/large/buizel.jpg
+0419,Floatzel,WATER,https://img.pokemondb.net/artwork/large/floatzel.jpg
+0420,Cherubi,GRASS,https://img.pokemondb.net/artwork/large/cherubi.jpg
+0421,Cherrim,GRASS,https://img.pokemondb.net/artwork/large/cherrim.jpg
+0422,Shellos,WATER,https://img.pokemondb.net/artwork/large/shellos.jpg
+0423,Gastrodon,"WATER
+GROUND",https://img.pokemondb.net/artwork/large/gastrodon.jpg
+0424,Ambipom,NORMAL,https://img.pokemondb.net/artwork/large/ambipom.jpg
+0425,Drifloon,"GHOST
+FLYING",https://img.pokemondb.net/artwork/large/drifloon.jpg
+0426,Drifblim,"GHOST
+FLYING",https://img.pokemondb.net/artwork/large/drifblim.jpg
+0427,Buneary,NORMAL,https://img.pokemondb.net/artwork/large/buneary.jpg
+0428,Lopunny,NORMAL,https://img.pokemondb.net/artwork/large/lopunny.jpg
+0428,"Lopunny
+Mega Lopunny","NORMAL
+FIGHTING",https://img.pokemondb.net/artwork/large/lopunny.jpg
+0429,Mismagius,GHOST,https://img.pokemondb.net/artwork/large/mismagius.jpg
+0430,Honchkrow,"DARK
+FLYING",https://img.pokemondb.net/artwork/large/honchkrow.jpg
+0431,Glameow,NORMAL,https://img.pokemondb.net/artwork/large/glameow.jpg
+0432,Purugly,NORMAL,https://img.pokemondb.net/artwork/large/purugly.jpg
+0433,Chingling,PSYCHIC,https://img.pokemondb.net/artwork/large/chingling.jpg
+0434,Stunky,"POISON
+DARK",https://img.pokemondb.net/artwork/large/stunky.jpg
+0435,Skuntank,"POISON
+DARK",https://img.pokemondb.net/artwork/large/skuntank.jpg
+0436,Bronzor,"STEEL
+PSYCHIC",https://img.pokemondb.net/artwork/large/bronzor.jpg
+0437,Bronzong,"STEEL
+PSYCHIC",https://img.pokemondb.net/artwork/large/bronzong.jpg
+0438,Bonsly,ROCK,https://img.pokemondb.net/artwork/large/bonsly.jpg
+0439,Mime Jr.,"PSYCHIC
+FAIRY",https://img.pokemondb.net/artwork/large/mime-jr.jpg
+0440,Happiny,NORMAL,https://img.pokemondb.net/artwork/large/happiny.jpg
+0441,Chatot,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/chatot.jpg
+0442,Spiritomb,"GHOST
+DARK",https://img.pokemondb.net/artwork/large/spiritomb.jpg
+0443,Gible,"DRAGON
+GROUND",https://img.pokemondb.net/artwork/large/gible.jpg
+0444,Gabite,"DRAGON
+GROUND",https://img.pokemondb.net/artwork/large/gabite.jpg
+0445,Garchomp,"DRAGON
+GROUND",https://img.pokemondb.net/artwork/large/garchomp.jpg
+0445,"Garchomp
+Mega Garchomp","DRAGON
+GROUND",https://img.pokemondb.net/artwork/large/garchomp.jpg
+0446,Munchlax,NORMAL,https://img.pokemondb.net/artwork/large/munchlax.jpg
+0447,Riolu,FIGHTING,https://img.pokemondb.net/artwork/large/riolu.jpg
+0448,Lucario,"FIGHTING
+STEEL",https://img.pokemondb.net/artwork/large/lucario.jpg
+0448,"Lucario
+Mega Lucario","FIGHTING
+STEEL",https://img.pokemondb.net/artwork/large/lucario.jpg
+0449,Hippopotas,GROUND,https://img.pokemondb.net/artwork/large/hippopotas.jpg
+0450,Hippowdon,GROUND,https://img.pokemondb.net/artwork/large/hippowdon.jpg
+0451,Skorupi,"POISON
+BUG",https://img.pokemondb.net/artwork/large/skorupi.jpg
+0452,Drapion,"POISON
+DARK",https://img.pokemondb.net/artwork/large/drapion.jpg
+0453,Croagunk,"POISON
+FIGHTING",https://img.pokemondb.net/artwork/large/croagunk.jpg
+0454,Toxicroak,"POISON
+FIGHTING",https://img.pokemondb.net/artwork/large/toxicroak.jpg
+0455,Carnivine,GRASS,https://img.pokemondb.net/artwork/large/carnivine.jpg
+0456,Finneon,WATER,https://img.pokemondb.net/artwork/large/finneon.jpg
+0457,Lumineon,WATER,https://img.pokemondb.net/artwork/large/lumineon.jpg
+0458,Mantyke,"WATER
+FLYING",https://img.pokemondb.net/artwork/large/mantyke.jpg
+0459,Snover,"GRASS
+ICE",https://img.pokemondb.net/artwork/large/snover.jpg
+0460,Abomasnow,"GRASS
+ICE",https://img.pokemondb.net/artwork/large/abomasnow.jpg
+0460,"Abomasnow
+Mega Abomasnow","GRASS
+ICE",https://img.pokemondb.net/artwork/large/abomasnow.jpg
+0461,Weavile,"DARK
+ICE",https://img.pokemondb.net/artwork/large/weavile.jpg
+0462,Magnezone,"ELECTRIC
+STEEL",https://img.pokemondb.net/artwork/large/magnezone.jpg
+0463,Lickilicky,NORMAL,https://img.pokemondb.net/artwork/large/lickilicky.jpg
+0464,Rhyperior,"GROUND
+ROCK",https://img.pokemondb.net/artwork/large/rhyperior.jpg
+0465,Tangrowth,GRASS,https://img.pokemondb.net/artwork/large/tangrowth.jpg
+0466,Electivire,ELECTRIC,https://img.pokemondb.net/artwork/large/electivire.jpg
+0467,Magmortar,FIRE,https://img.pokemondb.net/artwork/large/magmortar.jpg
+0468,Togekiss,"FAIRY
+FLYING",https://img.pokemondb.net/artwork/large/togekiss.jpg
+0469,Yanmega,"BUG
+FLYING",https://img.pokemondb.net/artwork/large/yanmega.jpg
+0470,Leafeon,GRASS,https://img.pokemondb.net/artwork/large/leafeon.jpg
+0471,Glaceon,ICE,https://img.pokemondb.net/artwork/large/glaceon.jpg
+0472,Gliscor,"GROUND
+FLYING",https://img.pokemondb.net/artwork/large/gliscor.jpg
+0473,Mamoswine,"ICE
+GROUND",https://img.pokemondb.net/artwork/large/mamoswine.jpg
+0474,Porygon-Z,NORMAL,https://img.pokemondb.net/artwork/large/porygon-z.jpg
+0475,Gallade,"PSYCHIC
+FIGHTING",https://img.pokemondb.net/artwork/large/gallade.jpg
+0475,"Gallade
+Mega Gallade","PSYCHIC
+FIGHTING",https://img.pokemondb.net/artwork/large/gallade.jpg
+0476,Probopass,"ROCK
+STEEL",https://img.pokemondb.net/artwork/large/probopass.jpg
+0477,Dusknoir,GHOST,https://img.pokemondb.net/artwork/large/dusknoir.jpg
+0478,Froslass,"ICE
+GHOST",https://img.pokemondb.net/artwork/large/froslass.jpg
+0479,Rotom,"ELECTRIC
+GHOST",https://img.pokemondb.net/artwork/large/rotom.jpg
+0479,"Rotom
+Heat Rotom","ELECTRIC
+FIRE",https://img.pokemondb.net/artwork/large/rotom.jpg
+0479,"Rotom
+Wash Rotom","ELECTRIC
+WATER",https://img.pokemondb.net/artwork/large/rotom.jpg
+0479,"Rotom
+Frost Rotom","ELECTRIC
+ICE",https://img.pokemondb.net/artwork/large/rotom.jpg
+0479,"Rotom
+Fan Rotom","ELECTRIC
+FLYING",https://img.pokemondb.net/artwork/large/rotom.jpg
+0479,"Rotom
+Mow Rotom","ELECTRIC
+GRASS",https://img.pokemondb.net/artwork/large/rotom.jpg
+0480,Uxie,PSYCHIC,https://img.pokemondb.net/artwork/large/uxie.jpg
+0481,Mesprit,PSYCHIC,https://img.pokemondb.net/artwork/large/mesprit.jpg
+0482,Azelf,PSYCHIC,https://img.pokemondb.net/artwork/large/azelf.jpg
+0483,Dialga,"STEEL
+DRAGON",https://img.pokemondb.net/artwork/large/dialga.jpg
+0483,"Dialga
+Origin Forme","STEEL
+DRAGON",https://img.pokemondb.net/artwork/large/dialga.jpg
+0484,Palkia,"WATER
+DRAGON",https://img.pokemondb.net/artwork/large/palkia.jpg
+0484,"Palkia
+Origin Forme","WATER
+DRAGON",https://img.pokemondb.net/artwork/large/palkia.jpg
+0485,Heatran,"FIRE
+STEEL",https://img.pokemondb.net/artwork/large/heatran.jpg
+0486,Regigigas,NORMAL,https://img.pokemondb.net/artwork/large/regigigas.jpg
+0487,"Giratina
+Altered Forme","GHOST
+DRAGON",https://img.pokemondb.net/artwork/large/giratina-altered.jpg
+0487,"Giratina
+Origin Forme","GHOST
+DRAGON",https://img.pokemondb.net/artwork/large/giratina-altered.jpg
+0488,Cresselia,PSYCHIC,https://img.pokemondb.net/artwork/large/cresselia.jpg
+0489,Phione,WATER,https://img.pokemondb.net/artwork/large/phione.jpg
+0490,Manaphy,WATER,https://img.pokemondb.net/artwork/large/manaphy.jpg
+0491,Darkrai,DARK,https://img.pokemondb.net/artwork/large/darkrai.jpg
+0492,"Shaymin
+Land Forme",GRASS,https://img.pokemondb.net/artwork/large/shaymin-land.jpg
+0492,"Shaymin
+Sky Forme","GRASS
+FLYING",https://img.pokemondb.net/artwork/large/shaymin-land.jpg
+0493,Arceus,NORMAL,https://img.pokemondb.net/artwork/large/arceus.jpg
+0494,Victini,"PSYCHIC
+FIRE",https://img.pokemondb.net/artwork/large/victini.jpg
+0495,Snivy,GRASS,https://img.pokemondb.net/artwork/large/snivy.jpg
+0496,Servine,GRASS,https://img.pokemondb.net/artwork/large/servine.jpg
+0497,Serperior,GRASS,https://img.pokemondb.net/artwork/large/serperior.jpg
+0498,Tepig,FIRE,https://img.pokemondb.net/artwork/large/tepig.jpg
+0499,Pignite,"FIRE
+FIGHTING",https://img.pokemondb.net/artwork/large/pignite.jpg
+0500,Emboar,"FIRE
+FIGHTING",https://img.pokemondb.net/artwork/large/emboar.jpg
+0501,Oshawott,WATER,https://img.pokemondb.net/artwork/large/oshawott.jpg
+0502,Dewott,WATER,https://img.pokemondb.net/artwork/large/dewott.jpg
+0503,Samurott,WATER,https://img.pokemondb.net/artwork/large/samurott.jpg
+0503,"Samurott
+Hisuian Samurott","WATER
+DARK",https://img.pokemondb.net/artwork/large/samurott.jpg
+0504,Patrat,NORMAL,https://img.pokemondb.net/artwork/large/patrat.jpg
+0505,Watchog,NORMAL,https://img.pokemondb.net/artwork/large/watchog.jpg
+0506,Lillipup,NORMAL,https://img.pokemondb.net/artwork/large/lillipup.jpg
+0507,Herdier,NORMAL,https://img.pokemondb.net/artwork/large/herdier.jpg
+0508,Stoutland,NORMAL,https://img.pokemondb.net/artwork/large/stoutland.jpg
+0509,Purrloin,DARK,https://img.pokemondb.net/artwork/large/purrloin.jpg
+0510,Liepard,DARK,https://img.pokemondb.net/artwork/large/liepard.jpg
+0511,Pansage,GRASS,https://img.pokemondb.net/artwork/large/pansage.jpg
+0512,Simisage,GRASS,https://img.pokemondb.net/artwork/large/simisage.jpg
+0513,Pansear,FIRE,https://img.pokemondb.net/artwork/large/pansear.jpg
+0514,Simisear,FIRE,https://img.pokemondb.net/artwork/large/simisear.jpg
+0515,Panpour,WATER,https://img.pokemondb.net/artwork/large/panpour.jpg
+0516,Simipour,WATER,https://img.pokemondb.net/artwork/large/simipour.jpg
+0517,Munna,PSYCHIC,https://img.pokemondb.net/artwork/large/munna.jpg
+0518,Musharna,PSYCHIC,https://img.pokemondb.net/artwork/large/musharna.jpg
+0519,Pidove,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/pidove.jpg
+0520,Tranquill,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/tranquill.jpg
+0521,Unfezant,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/unfezant.jpg
+0522,Blitzle,ELECTRIC,https://img.pokemondb.net/artwork/large/blitzle.jpg
+0523,Zebstrika,ELECTRIC,https://img.pokemondb.net/artwork/large/zebstrika.jpg
+0524,Roggenrola,ROCK,https://img.pokemondb.net/artwork/large/roggenrola.jpg
+0525,Boldore,ROCK,https://img.pokemondb.net/artwork/large/boldore.jpg
+0526,Gigalith,ROCK,https://img.pokemondb.net/artwork/large/gigalith.jpg
+0527,Woobat,"PSYCHIC
+FLYING",https://img.pokemondb.net/artwork/large/woobat.jpg
+0528,Swoobat,"PSYCHIC
+FLYING",https://img.pokemondb.net/artwork/large/swoobat.jpg
+0529,Drilbur,GROUND,https://img.pokemondb.net/artwork/large/drilbur.jpg
+0530,Excadrill,"GROUND
+STEEL",https://img.pokemondb.net/artwork/large/excadrill.jpg
+0531,Audino,NORMAL,https://img.pokemondb.net/artwork/large/audino.jpg
+0531,"Audino
+Mega Audino","NORMAL
+FAIRY",https://img.pokemondb.net/artwork/large/audino.jpg
+0532,Timburr,FIGHTING,https://img.pokemondb.net/artwork/large/timburr.jpg
+0533,Gurdurr,FIGHTING,https://img.pokemondb.net/artwork/large/gurdurr.jpg
+0534,Conkeldurr,FIGHTING,https://img.pokemondb.net/artwork/large/conkeldurr.jpg
+0535,Tympole,WATER,https://img.pokemondb.net/artwork/large/tympole.jpg
+0536,Palpitoad,"WATER
+GROUND",https://img.pokemondb.net/artwork/large/palpitoad.jpg
+0537,Seismitoad,"WATER
+GROUND",https://img.pokemondb.net/artwork/large/seismitoad.jpg
+0538,Throh,FIGHTING,https://img.pokemondb.net/artwork/large/throh.jpg
+0539,Sawk,FIGHTING,https://img.pokemondb.net/artwork/large/sawk.jpg
+0540,Sewaddle,"BUG
+GRASS",https://img.pokemondb.net/artwork/large/sewaddle.jpg
+0541,Swadloon,"BUG
+GRASS",https://img.pokemondb.net/artwork/large/swadloon.jpg
+0542,Leavanny,"BUG
+GRASS",https://img.pokemondb.net/artwork/large/leavanny.jpg
+0543,Venipede,"BUG
+POISON",https://img.pokemondb.net/artwork/large/venipede.jpg
+0544,Whirlipede,"BUG
+POISON",https://img.pokemondb.net/artwork/large/whirlipede.jpg
+0545,Scolipede,"BUG
+POISON",https://img.pokemondb.net/artwork/large/scolipede.jpg
+0546,Cottonee,"GRASS
+FAIRY",https://img.pokemondb.net/artwork/large/cottonee.jpg
+0547,Whimsicott,"GRASS
+FAIRY",https://img.pokemondb.net/artwork/large/whimsicott.jpg
+0548,Petilil,GRASS,https://img.pokemondb.net/artwork/large/petilil.jpg
+0549,Lilligant,GRASS,https://img.pokemondb.net/artwork/large/lilligant.jpg
+0549,"Lilligant
+Hisuian Lilligant","GRASS
+FIGHTING",https://img.pokemondb.net/artwork/large/lilligant.jpg
+0550,"Basculin
+Red-Striped Form",WATER,https://img.pokemondb.net/artwork/large/basculin-red-striped.jpg
+0550,"Basculin
+Blue-Striped Form",WATER,https://img.pokemondb.net/artwork/large/basculin-red-striped.jpg
+0550,"Basculin
+White-Striped Form",WATER,https://img.pokemondb.net/artwork/large/basculin-red-striped.jpg
+0551,Sandile,"GROUND
+DARK",https://img.pokemondb.net/artwork/large/sandile.jpg
+0552,Krokorok,"GROUND
+DARK",https://img.pokemondb.net/artwork/large/krokorok.jpg
+0553,Krookodile,"GROUND
+DARK",https://img.pokemondb.net/artwork/large/krookodile.jpg
+0554,Darumaka,FIRE,https://img.pokemondb.net/artwork/large/darumaka.jpg
+0554,"Darumaka
+Galarian Darumaka",ICE,https://img.pokemondb.net/artwork/large/darumaka.jpg
+0555,"Darmanitan
+Standard Mode",FIRE,https://img.pokemondb.net/artwork/large/darmanitan-standard.jpg
+0555,"Darmanitan
+Zen Mode","FIRE
+PSYCHIC",https://img.pokemondb.net/artwork/large/darmanitan-standard.jpg
+0555,"Darmanitan
+Galarian Standard Mode",ICE,https://img.pokemondb.net/artwork/large/darmanitan-standard.jpg
+0555,"Darmanitan
+Galarian Zen Mode","ICE
+FIRE",https://img.pokemondb.net/artwork/large/darmanitan-standard.jpg
+0556,Maractus,GRASS,https://img.pokemondb.net/artwork/large/maractus.jpg
+0557,Dwebble,"BUG
+ROCK",https://img.pokemondb.net/artwork/large/dwebble.jpg
+0558,Crustle,"BUG
+ROCK",https://img.pokemondb.net/artwork/large/crustle.jpg
+0559,Scraggy,"DARK
+FIGHTING",https://img.pokemondb.net/artwork/large/scraggy.jpg
+0560,Scrafty,"DARK
+FIGHTING",https://img.pokemondb.net/artwork/large/scrafty.jpg
+0561,Sigilyph,"PSYCHIC
+FLYING",https://img.pokemondb.net/artwork/large/sigilyph.jpg
+0562,Yamask,GHOST,https://img.pokemondb.net/artwork/large/yamask.jpg
+0562,"Yamask
+Galarian Yamask","GROUND
+GHOST",https://img.pokemondb.net/artwork/large/yamask.jpg
+0563,Cofagrigus,GHOST,https://img.pokemondb.net/artwork/large/cofagrigus.jpg
+0564,Tirtouga,"WATER
+ROCK",https://img.pokemondb.net/artwork/large/tirtouga.jpg
+0565,Carracosta,"WATER
+ROCK",https://img.pokemondb.net/artwork/large/carracosta.jpg
+0566,Archen,"ROCK
+FLYING",https://img.pokemondb.net/artwork/large/archen.jpg
+0567,Archeops,"ROCK
+FLYING",https://img.pokemondb.net/artwork/large/archeops.jpg
+0568,Trubbish,POISON,https://img.pokemondb.net/artwork/large/trubbish.jpg
+0569,Garbodor,POISON,https://img.pokemondb.net/artwork/large/garbodor.jpg
+0570,Zorua,DARK,https://img.pokemondb.net/artwork/large/zorua.jpg
+0570,"Zorua
+Hisuian Zorua","NORMAL
+GHOST",https://img.pokemondb.net/artwork/large/zorua.jpg
+0571,Zoroark,DARK,https://img.pokemondb.net/artwork/large/zoroark.jpg
+0571,"Zoroark
+Hisuian Zoroark","NORMAL
+GHOST",https://img.pokemondb.net/artwork/large/zoroark.jpg
+0572,Minccino,NORMAL,https://img.pokemondb.net/artwork/large/minccino.jpg
+0573,Cinccino,NORMAL,https://img.pokemondb.net/artwork/large/cinccino.jpg
+0574,Gothita,PSYCHIC,https://img.pokemondb.net/artwork/large/gothita.jpg
+0575,Gothorita,PSYCHIC,https://img.pokemondb.net/artwork/large/gothorita.jpg
+0576,Gothitelle,PSYCHIC,https://img.pokemondb.net/artwork/large/gothitelle.jpg
+0577,Solosis,PSYCHIC,https://img.pokemondb.net/artwork/large/solosis.jpg
+0578,Duosion,PSYCHIC,https://img.pokemondb.net/artwork/large/duosion.jpg
+0579,Reuniclus,PSYCHIC,https://img.pokemondb.net/artwork/large/reuniclus.jpg
+0580,Ducklett,"WATER
+FLYING",https://img.pokemondb.net/artwork/large/ducklett.jpg
+0581,Swanna,"WATER
+FLYING",https://img.pokemondb.net/artwork/large/swanna.jpg
+0582,Vanillite,ICE,https://img.pokemondb.net/artwork/large/vanillite.jpg
+0583,Vanillish,ICE,https://img.pokemondb.net/artwork/large/vanillish.jpg
+0584,Vanilluxe,ICE,https://img.pokemondb.net/artwork/large/vanilluxe.jpg
+0585,Deerling,"NORMAL
+GRASS",https://img.pokemondb.net/artwork/large/deerling.jpg
+0586,Sawsbuck,"NORMAL
+GRASS",https://img.pokemondb.net/artwork/large/sawsbuck.jpg
+0587,Emolga,"ELECTRIC
+FLYING",https://img.pokemondb.net/artwork/large/emolga.jpg
+0588,Karrablast,BUG,https://img.pokemondb.net/artwork/large/karrablast.jpg
+0589,Escavalier,"BUG
+STEEL",https://img.pokemondb.net/artwork/large/escavalier.jpg
+0590,Foongus,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/foongus.jpg
+0591,Amoonguss,"GRASS
+POISON",https://img.pokemondb.net/artwork/large/amoonguss.jpg
+0592,Frillish,"WATER
+GHOST",https://img.pokemondb.net/artwork/large/frillish.jpg
+0593,Jellicent,"WATER
+GHOST",https://img.pokemondb.net/artwork/large/jellicent.jpg
+0594,Alomomola,WATER,https://img.pokemondb.net/artwork/large/alomomola.jpg
+0595,Joltik,"BUG
+ELECTRIC",https://img.pokemondb.net/artwork/large/joltik.jpg
+0596,Galvantula,"BUG
+ELECTRIC",https://img.pokemondb.net/artwork/large/galvantula.jpg
+0597,Ferroseed,"GRASS
+STEEL",https://img.pokemondb.net/artwork/large/ferroseed.jpg
+0598,Ferrothorn,"GRASS
+STEEL",https://img.pokemondb.net/artwork/large/ferrothorn.jpg
+0599,Klink,STEEL,https://img.pokemondb.net/artwork/large/klink.jpg
+0600,Klang,STEEL,https://img.pokemondb.net/artwork/large/klang.jpg
+0601,Klinklang,STEEL,https://img.pokemondb.net/artwork/large/klinklang.jpg
+0602,Tynamo,ELECTRIC,https://img.pokemondb.net/artwork/large/tynamo.jpg
+0603,Eelektrik,ELECTRIC,https://img.pokemondb.net/artwork/large/eelektrik.jpg
+0604,Eelektross,ELECTRIC,https://img.pokemondb.net/artwork/large/eelektross.jpg
+0605,Elgyem,PSYCHIC,https://img.pokemondb.net/artwork/large/elgyem.jpg
+0606,Beheeyem,PSYCHIC,https://img.pokemondb.net/artwork/large/beheeyem.jpg
+0607,Litwick,"GHOST
+FIRE",https://img.pokemondb.net/artwork/large/litwick.jpg
+0608,Lampent,"GHOST
+FIRE",https://img.pokemondb.net/artwork/large/lampent.jpg
+0609,Chandelure,"GHOST
+FIRE",https://img.pokemondb.net/artwork/large/chandelure.jpg
+0610,Axew,DRAGON,https://img.pokemondb.net/artwork/large/axew.jpg
+0611,Fraxure,DRAGON,https://img.pokemondb.net/artwork/large/fraxure.jpg
+0612,Haxorus,DRAGON,https://img.pokemondb.net/artwork/large/haxorus.jpg
+0613,Cubchoo,ICE,https://img.pokemondb.net/artwork/large/cubchoo.jpg
+0614,Beartic,ICE,https://img.pokemondb.net/artwork/large/beartic.jpg
+0615,Cryogonal,ICE,https://img.pokemondb.net/artwork/large/cryogonal.jpg
+0616,Shelmet,BUG,https://img.pokemondb.net/artwork/large/shelmet.jpg
+0617,Accelgor,BUG,https://img.pokemondb.net/artwork/large/accelgor.jpg
+0618,Stunfisk,"GROUND
+ELECTRIC",https://img.pokemondb.net/artwork/large/stunfisk.jpg
+0618,"Stunfisk
+Galarian Stunfisk","GROUND
+STEEL",https://img.pokemondb.net/artwork/large/stunfisk.jpg
+0619,Mienfoo,FIGHTING,https://img.pokemondb.net/artwork/large/mienfoo.jpg
+0620,Mienshao,FIGHTING,https://img.pokemondb.net/artwork/large/mienshao.jpg
+0621,Druddigon,DRAGON,https://img.pokemondb.net/artwork/large/druddigon.jpg
+0622,Golett,"GROUND
+GHOST",https://img.pokemondb.net/artwork/large/golett.jpg
+0623,Golurk,"GROUND
+GHOST",https://img.pokemondb.net/artwork/large/golurk.jpg
+0624,Pawniard,"DARK
+STEEL",https://img.pokemondb.net/artwork/large/pawniard.jpg
+0625,Bisharp,"DARK
+STEEL",https://img.pokemondb.net/artwork/large/bisharp.jpg
+0626,Bouffalant,NORMAL,https://img.pokemondb.net/artwork/large/bouffalant.jpg
+0627,Rufflet,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/rufflet.jpg
+0628,Braviary,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/braviary.jpg
+0628,"Braviary
+Hisuian Braviary","PSYCHIC
+FLYING",https://img.pokemondb.net/artwork/large/braviary.jpg
+0629,Vullaby,"DARK
+FLYING",https://img.pokemondb.net/artwork/large/vullaby.jpg
+0630,Mandibuzz,"DARK
+FLYING",https://img.pokemondb.net/artwork/large/mandibuzz.jpg
+0631,Heatmor,FIRE,https://img.pokemondb.net/artwork/large/heatmor.jpg
+0632,Durant,"BUG
+STEEL",https://img.pokemondb.net/artwork/large/durant.jpg
+0633,Deino,"DARK
+DRAGON",https://img.pokemondb.net/artwork/large/deino.jpg
+0634,Zweilous,"DARK
+DRAGON",https://img.pokemondb.net/artwork/large/zweilous.jpg
+0635,Hydreigon,"DARK
+DRAGON",https://img.pokemondb.net/artwork/large/hydreigon.jpg
+0636,Larvesta,"BUG
+FIRE",https://img.pokemondb.net/artwork/large/larvesta.jpg
+0637,Volcarona,"BUG
+FIRE",https://img.pokemondb.net/artwork/large/volcarona.jpg
+0638,Cobalion,"STEEL
+FIGHTING",https://img.pokemondb.net/artwork/large/cobalion.jpg
+0639,Terrakion,"ROCK
+FIGHTING",https://img.pokemondb.net/artwork/large/terrakion.jpg
+0640,Virizion,"GRASS
+FIGHTING",https://img.pokemondb.net/artwork/large/virizion.jpg
+0641,"Tornadus
+Incarnate Forme",FLYING,https://img.pokemondb.net/artwork/large/tornadus-incarnate.jpg
+0641,"Tornadus
+Therian Forme",FLYING,https://img.pokemondb.net/artwork/large/tornadus-incarnate.jpg
+0642,"Thundurus
+Incarnate Forme","ELECTRIC
+FLYING",https://img.pokemondb.net/artwork/large/thundurus-incarnate.jpg
+0642,"Thundurus
+Therian Forme","ELECTRIC
+FLYING",https://img.pokemondb.net/artwork/large/thundurus-incarnate.jpg
+0643,Reshiram,"DRAGON
+FIRE",https://img.pokemondb.net/artwork/large/reshiram.jpg
+0644,Zekrom,"DRAGON
+ELECTRIC",https://img.pokemondb.net/artwork/large/zekrom.jpg
+0645,"Landorus
+Incarnate Forme","GROUND
+FLYING",https://img.pokemondb.net/artwork/large/landorus-incarnate.jpg
+0645,"Landorus
+Therian Forme","GROUND
+FLYING",https://img.pokemondb.net/artwork/large/landorus-incarnate.jpg
+0646,Kyurem,"DRAGON
+ICE",https://img.pokemondb.net/artwork/large/kyurem.jpg
+0646,"Kyurem
+White Kyurem","DRAGON
+ICE",https://img.pokemondb.net/artwork/large/kyurem.jpg
+0646,"Kyurem
+Black Kyurem","DRAGON
+ICE",https://img.pokemondb.net/artwork/large/kyurem.jpg
+0647,"Keldeo
+Ordinary Form","WATER
+FIGHTING",https://img.pokemondb.net/artwork/large/keldeo-ordinary.jpg
+0647,"Keldeo
+Resolute Form","WATER
+FIGHTING",https://img.pokemondb.net/artwork/large/keldeo-ordinary.jpg
+0648,"Meloetta
+Aria Forme","NORMAL
+PSYCHIC",https://img.pokemondb.net/artwork/large/meloetta-aria.jpg
+0648,"Meloetta
+Pirouette Forme","NORMAL
+FIGHTING",https://img.pokemondb.net/artwork/large/meloetta-aria.jpg
+0649,Genesect,"BUG
+STEEL",https://img.pokemondb.net/artwork/large/genesect.jpg
+0650,Chespin,GRASS,https://img.pokemondb.net/artwork/large/chespin.jpg
+0651,Quilladin,GRASS,https://img.pokemondb.net/artwork/large/quilladin.jpg
+0652,Chesnaught,"GRASS
+FIGHTING",https://img.pokemondb.net/artwork/large/chesnaught.jpg
+0653,Fennekin,FIRE,https://img.pokemondb.net/artwork/large/fennekin.jpg
+0654,Braixen,FIRE,https://img.pokemondb.net/artwork/large/braixen.jpg
+0655,Delphox,"FIRE
+PSYCHIC",https://img.pokemondb.net/artwork/large/delphox.jpg
+0656,Froakie,WATER,https://img.pokemondb.net/artwork/large/froakie.jpg
+0657,Frogadier,WATER,https://img.pokemondb.net/artwork/large/frogadier.jpg
+0658,Greninja,"WATER
+DARK",https://img.pokemondb.net/artwork/large/greninja.jpg
+0658,"Greninja
+Ash-Greninja","WATER
+DARK",https://img.pokemondb.net/artwork/large/greninja.jpg
+0659,Bunnelby,NORMAL,https://img.pokemondb.net/artwork/large/bunnelby.jpg
+0660,Diggersby,"NORMAL
+GROUND",https://img.pokemondb.net/artwork/large/diggersby.jpg
+0661,Fletchling,"NORMAL
+FLYING",https://img.pokemondb.net/artwork/large/fletchling.jpg
+0662,Fletchinder,"FIRE
+FLYING",https://img.pokemondb.net/artwork/large/fletchinder.jpg
+0663,Talonflame,"FIRE
+FLYING",https://img.pokemondb.net/artwork/large/talonflame.jpg
+0664,Scatterbug,BUG,https://img.pokemondb.net/artwork/large/scatterbug.jpg
+0665,Spewpa,BUG,https://img.pokemondb.net/artwork/large/spewpa.jpg
+0666,Vivillon,"BUG
+FLYING",https://img.pokemondb.net/artwork/large/vivillon.jpg
+0667,Litleo,"FIRE
+NORMAL",https://img.pokemondb.net/artwork/large/litleo.jpg
+0668,Pyroar,"FIRE
+NORMAL",https://img.pokemondb.net/artwork/large/pyroar.jpg
+0669,Flabébé,FAIRY,https://img.pokemondb.net/artwork/large/flabebe.jpg
+0670,Floette,FAIRY,https://img.pokemondb.net/artwork/large/floette.jpg
+0671,Florges,FAIRY,https://img.pokemondb.net/artwork/large/florges.jpg
+0672,Skiddo,GRASS,https://img.pokemondb.net/artwork/large/skiddo.jpg
+0673,Gogoat,GRASS,https://img.pokemondb.net/artwork/large/gogoat.jpg
+0674,Pancham,FIGHTING,https://img.pokemondb.net/artwork/large/pancham.jpg
+0675,Pangoro,"FIGHTING
+DARK",https://img.pokemondb.net/artwork/large/pangoro.jpg
+0676,Furfrou,NORMAL,https://img.pokemondb.net/artwork/large/furfrou.jpg
+0677,Espurr,PSYCHIC,https://img.pokemondb.net/artwork/large/espurr.jpg
+0678,"Meowstic
+Male",PSYCHIC,https://img.pokemondb.net/artwork/large/meowstic-male.jpg
+0678,"Meowstic
+Female",PSYCHIC,https://img.pokemondb.net/artwork/large/meowstic-male.jpg
+0679,Honedge,"STEEL
+GHOST",https://img.pokemondb.net/artwork/large/honedge.jpg
+0680,Doublade,"STEEL
+GHOST",https://img.pokemondb.net/artwork/large/doublade.jpg
+0681,"Aegislash
+Shield Forme","STEEL
+GHOST",https://img.pokemondb.net/artwork/large/aegislash-shield.jpg
+0681,"Aegislash
+Blade Forme","STEEL
+GHOST",https://img.pokemondb.net/artwork/large/aegislash-shield.jpg
+0682,Spritzee,FAIRY,https://img.pokemondb.net/artwork/large/spritzee.jpg
+0683,Aromatisse,FAIRY,https://img.pokemondb.net/artwork/large/aromatisse.jpg
+0684,Swirlix,FAIRY,https://img.pokemondb.net/artwork/large/swirlix.jpg
+0685,Slurpuff,FAIRY,https://img.pokemondb.net/artwork/large/slurpuff.jpg
+0686,Inkay,"DARK
+PSYCHIC",https://img.pokemondb.net/artwork/large/inkay.jpg
+0687,Malamar,"DARK
+PSYCHIC",https://img.pokemondb.net/artwork/large/malamar.jpg
+0688,Binacle,"ROCK
+WATER",https://img.pokemondb.net/artwork/large/binacle.jpg
+0689,Barbaracle,"ROCK
+WATER",https://img.pokemondb.net/artwork/large/barbaracle.jpg
+0690,Skrelp,"POISON
+WATER",https://img.pokemondb.net/artwork/large/skrelp.jpg
+0691,Dragalge,"POISON
+DRAGON",https://img.pokemondb.net/artwork/large/dragalge.jpg
+0692,Clauncher,WATER,https://img.pokemondb.net/artwork/large/clauncher.jpg
+0693,Clawitzer,WATER,https://img.pokemondb.net/artwork/large/clawitzer.jpg
+0694,Helioptile,"ELECTRIC
+NORMAL",https://img.pokemondb.net/artwork/large/helioptile.jpg
+0695,Heliolisk,"ELECTRIC
+NORMAL",https://img.pokemondb.net/artwork/large/heliolisk.jpg
+0696,Tyrunt,"ROCK
+DRAGON",https://img.pokemondb.net/artwork/large/tyrunt.jpg
+0697,Tyrantrum,"ROCK
+DRAGON",https://img.pokemondb.net/artwork/large/tyrantrum.jpg
+0698,Amaura,"ROCK
+ICE",https://img.pokemondb.net/artwork/large/amaura.jpg
+0699,Aurorus,"ROCK
+ICE",https://img.pokemondb.net/artwork/large/aurorus.jpg
+0700,Sylveon,FAIRY,https://img.pokemondb.net/artwork/large/sylveon.jpg
+0701,Hawlucha,"FIGHTING
+FLYING",https://img.pokemondb.net/artwork/large/hawlucha.jpg
+0702,Dedenne,"ELECTRIC
+FAIRY",https://img.pokemondb.net/artwork/large/dedenne.jpg
+0703,Carbink,"ROCK
+FAIRY",https://img.pokemondb.net/artwork/large/carbink.jpg
+0704,Goomy,DRAGON,https://img.pokemondb.net/artwork/large/goomy.jpg
+0705,Sliggoo,DRAGON,https://img.pokemondb.net/artwork/large/sliggoo.jpg
+0705,"Sliggoo
+Hisuian Sliggoo","STEEL
+DRAGON",https://img.pokemondb.net/artwork/large/sliggoo.jpg
+0706,Goodra,DRAGON,https://img.pokemondb.net/artwork/large/goodra.jpg
+0706,"Goodra
+Hisuian Goodra","STEEL
+DRAGON",https://img.pokemondb.net/artwork/large/goodra.jpg
+0707,Klefki,"STEEL
+FAIRY",https://img.pokemondb.net/artwork/large/klefki.jpg
+0708,Phantump,"GHOST
+GRASS",https://img.pokemondb.net/artwork/large/phantump.jpg
+0709,Trevenant,"GHOST
+GRASS",https://img.pokemondb.net/artwork/large/trevenant.jpg
