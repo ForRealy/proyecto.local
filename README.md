@@ -10,3 +10,27 @@ Este documento explica cómo configurar el entorno y ejecutar la aplicación web
 - **Servidor Web** (Apache o Nginx)
 - **Selenium WebDriver** y navegador compatible (ej: Chrome + ChromeDriver)
 ## 🚀 Pasos de Instalación
+`composer install`
+```
+-- Crear la tabla Pokémon
+CREATE TABLE Pokemon (
+    Number INT PRIMARY KEY,
+    Name VARCHAR(50) NOT NULL,
+    ImagePath VARCHAR(255) NOT NULL
+);
+
+-- Crear la tabla de Tipos
+CREATE TABLE Types (
+    TypeID INT AUTO_INCREMENT PRIMARY KEY,
+    TypeName VARCHAR(20) NOT NULL UNIQUE
+);
+
+-- Crear la tabla de relación Pokémon-Tipos
+CREATE TABLE PokemonTypes (
+    PokemonNumber INT NOT NULL,
+    TypeID INT NOT NULL,
+    PRIMARY KEY (PokemonNumber, TypeID),
+    FOREIGN KEY (PokemonNumber) REFERENCES Pokemon(Number),
+    FOREIGN KEY (TypeID) REFERENCES Types(TypeID)
+);
+```
