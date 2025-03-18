@@ -1,0 +1,27 @@
+{% extends "admin/admin_layout.twig" %}
+
+{% block title %}Editar Pokémon{% endblock %}
+
+{% block content %}
+  <h1>Editar Pokémon</h1>
+
+  {% if error is defined %}
+    <div class="alert alert-danger">{{ error }}</div>
+  {% endif %}
+
+  <form method="POST" action="/admin/pokemon/editar">
+    <div class="mb-3">
+      <label for="number" class="form-label">Número</label>
+      <input type="number" name="number" id="number" class="form-control" value="{{ pokemon.Number }}" readonly>
+    </div>
+    <div class="mb-3">
+      <label for="name" class="form-label">Nombre</label>
+      <input type="text" name="name" id="name" class="form-control" value="{{ pokemon.Name }}" required>
+    </div>
+    <div class="mb-3">
+      <label for="imagePath" class="form-label">Ruta de la Imagen</label>
+      <input type="text" name="imagePath" id="imagePath" class="form-control" value="{{ pokemon.ImagePath }}" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Actualizar Pokémon</button>
+  </form>
+{% endblock %}

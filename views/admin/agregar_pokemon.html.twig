@@ -1,0 +1,30 @@
+{% extends "admin/admin_layout.twig" %}
+
+{% block title %}Agregar Nuevo Pokémon{% endblock %}
+
+{% block content %}
+  <h1>Agregar Nuevo Pokémon</h1>
+  
+  {% if error is defined %}
+    <div class="alert alert-danger">
+      {{ error }}
+    </div>
+  {% endif %}
+
+  <form method="POST" action="/admin/pokemon/nuevo">
+    <div class="mb-3">
+      <label for="number" class="form-label">Número</label>
+      <input type="number" name="number" id="number" class="form-control" required>
+    </div>
+    <div class="mb-3">
+      <label for="name" class="form-label">Nombre</label>
+      <input type="text" name="name" id="name" class="form-control" required>
+    </div>
+    <div class="mb-3">
+      <label for="imagePath" class="form-label">Ruta de la Imagen</label>
+      <input type="text" name="imagePath" id="imagePath" class="form-control" required>
+    </div>
+    <!-- Si deseas agregar la selección de tipos, puedes incluir aquí campos adicionales -->
+    <button type="submit" class="btn btn-primary">Agregar Pokémon</button>
+  </form>
+{% endblock %}

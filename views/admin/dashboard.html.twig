@@ -1,0 +1,84 @@
+{% extends "admin/admin_layout.twig" %}
+
+{% block title %}Dashboard - Panel de Administración{% endblock %}
+
+{% block content %}
+  <h1>Bienvenido al Panel de Administración, {{ user }}</h1>
+
+  <h2>Estadísticas de Pokémon por Tipo</h2>
+  <canvas id="pokemonChart" width="400" height="200"></canvas>
+
+  <h2>Lista de Pokémon</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Número</th>
+        <th>Nombre</th>
+        <th>Imagen</th>
+        <th>Acciones</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for pokemon in pokemons %}
+        <tr>
+          <td>{{ pokemon.Number }}</td>
+          <td>{{ pokemon.Name }}</td>
+          <td><img src="{{ pokemon.ImagePath }}" alt="{{ pokemon.Name }}" style="max-height:50px;"></td>
+          <td>
+            <a href="/admin/pokemon/editar?number={{ pokemon.Number }}" class="btn btn-sm btn-warning">Editar</a>
+          </td>
+        </tr>
+      {% else %}
+        <tr>
+          <td colspan="4">No hay Pokémon registrados.</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <!-- Incluir Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <script>
+    // Preparar etiquetas y datos para el gráfico
+    const labels = [
+  {% for type in typeCounts %}
+    "{{ type.typename }}"{% if not loop.last %}, {% endif %}
+  {% endfor %}
+];
+
+const data = [
+  {% for type in typeCounts %}
+    {{ type.count }}{% if not loop.last %}, {% endif %}
+  {% endfor %}
+];
+
+    console.log("Labels:", labels);
+    console.log("Data:", data);
+
+    const ctx = document.getElementById('pokemonChart').getContext('2d');
+    const pokemonChart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: labels,
+        datasets: [{
+          label: 'Cantidad de Pokémon',
+          data: data,
+          backgroundColor: 'rgba(54, 162, 235, 0.2)',
+          borderColor: 'rgba(54, 162, 235, 1)',
+          borderWidth: 1
+        }]
+      },
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true,
+            ticks: {
+              stepSize: 1
+            }
+          }
+        }
+      }
+    });
+  </script>
+{% endblock %}
