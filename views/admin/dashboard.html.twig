@@ -23,7 +23,7 @@
         <tr>
           <td>{{ pokemon.Number }}</td>
           <td>{{ pokemon.Name }}</td>
-          <td><img src="{{ pokemon.ImagePath }}" alt="{{ pokemon.Name }}" style="max-height:50px;"></td>
+          <td><img src="/public/images/{{ pokemon.ImagePath }}" alt="{{ pokemon.Name }}" style="max-height:50px;"></td>
           <td>
             <a href="/admin/pokemon/editar?number={{ pokemon.Number }}" class="btn btn-sm btn-warning">Editar</a>
           </td>

@@ -1,16 +1,42 @@
 <?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
 session_start();
 require_once 'vendor/autoload.php'; // Asegúrate de tener instalado Twig vía Composer
 use Firebase\JWT\JWT;
 use Firebase\JWT\Key;
 
+// Load i18n configuration
+require_once __DIR__ . '/config/i18n.php';
+
 // Configuración de Twig
 $loader = new \Twig\Loader\FilesystemLoader(__DIR__ . '/views');
 $twig = new \Twig\Environment($loader);
 
+// Add trans filter to Twig
+$twig->addFilter(new \Twig\TwigFilter('trans', function ($string) {
+    return gettext($string);
+}));
+
 // Configuración de la base de datos (ajusta los valores)
 $db = new PDO('mysql:host=localhost;dbname=PokemonDB;charset=utf8', 'usuario', 'password');
 $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+
+// Add loginUser function (for login via /login and /api/auth/login)
+function loginUser($username, $password) {
+    global $db;
+    $stmt = $db->prepare("SELECT * FROM Users WHERE username = :username");
+    $stmt->execute(['username' => $username]);
+    $user = $stmt->fetch(PDO::FETCH_ASSOC);
+    if ($user && password_verify($password, $user['password'])) {
+        $_SESSION['user'] = $user['username'];
+        $_SESSION['role'] = $user['role'];
+        return $user;
+    }
+    return false;
+}
 
 // Definición de colores para cada tipo (si lo necesitas en alguna vista)
 $typeColors = [
@@ -33,8 +59,33 @@ $typeColors = [
     'Fairy'    => 'bg-pink'
 ];
 
-// Obtener la ruta solicitada
+// Obtener la ruta solicitada (para legacy routes)
 $request = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+
+// New route for POST /api/auth/login (JSON login) – use preg_match to match /api/auth/login (with optional trailing slash or query)
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && preg_match('/^\/api\/auth\/login(\/|\?|$)/', $_SERVER['REQUEST_URI'])) {
+    // (Optional) log the incoming request URI (and raw REQUEST_URI) for debugging
+    error_log("Incoming request URI (POST /api/auth/login): " . $_SERVER['REQUEST_URI'] . " (raw: " . var_export($_SERVER['REQUEST_URI'], true) . ")");
+    $json = file_get_contents('php://input');
+    $data = json_decode($json, true);
+    if (isset($data['username']) && isset($data['password'])) {
+        $user = loginUser($data['username'], $data['password']);
+        if ($user) {
+            // (Optional) set a session or cookie if you want to keep the user logged in
+            // session_start();
+            // $_SESSION['user'] = $user;
+            header('Content-Type: application/json');
+            echo json_encode(['success' => true, 'user' => $user]);
+        } else {
+            header('Content-Type: application/json');
+            echo json_encode(['success' => false, 'message' => 'Invalid credentials']);
+        }
+    } else {
+        header('Content-Type: application/json');
+        echo json_encode(['success' => false, 'message' => 'Missing username or password']);
+    }
+    exit;
+}
 
 switch ($request) {
     case '/':
@@ -78,21 +129,17 @@ switch ($request) {
     case '/login':
         // Ruta de login
         if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-            $username = isset($_POST['username']) ? trim($_POST['username']) : '';
-            $password = isset($_POST['password']) ? trim($_POST['password']) : '';
-
-            // Si el usuario es admin, redirigimos al panel de administración
-            if ($username === 'admin' && $password === 'admin') {
-                $_SESSION['user'] = $username;
-                $_SESSION['role'] = 'admin';
-                header("Location: /admin/dashboard");
+            $username = $_POST['username'] ?? '';
+            $password = $_POST['password'] ?? '';
+            $user = loginUser($username, $password);
+            if ($user) {
+                // (Optional) set a session or cookie if you want to keep the user logged in
+                // session_start();
+                // $_SESSION['user'] = $user;
+                header('Location: /admin');
                 exit;
             } else {
-                // Usuario normal, redirige a la página principal
-                $_SESSION['user'] = $username;
-                $_SESSION['role'] = 'user';
-                header("Location: /");
-                exit;
+                echo $twig->render('login.html.twig', ['error' => 'Invalid credentials']);
             }
         } else {
             echo $twig->render('login.html.twig');
@@ -221,7 +268,7 @@ $typeCounts = $stmtCounts->fetchAll(PDO::FETCH_ASSOC);
         break;
 
     default:
-        http_response_code(404);
+        header("HTTP/1.0 404 Not Found");
         echo $twig->render('404.html.twig');
         break;
 }

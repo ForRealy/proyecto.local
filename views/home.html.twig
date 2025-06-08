@@ -16,7 +16,7 @@
             {% for pokemon in pokemons %}
                 <div class="col">
                     <div class="card h-100 shadow-sm">
-                        <img src="public/{{ pokemon.ImagePath }}" class="card-img-top p-3" alt="{{ pokemon.Name }}" style="height: 200px; object-fit: contain;">
+                        <img src="/public/images/{{ pokemon.ImagePath }}" class="card-img-top p-3" alt="{{ pokemon.Name }}" style="height: 200px; object-fit: contain;">
                         <div class="card-body">
                             <h5 class="card-title text-capitalize">{{ pokemon.Number ~ '# ' ~ pokemon.Name }}</h5>
                             <div class="d-flex gap-2">

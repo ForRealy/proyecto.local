@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pokemon Database\n"
+"POT-Creation-Date: 2024-03-19 12:00+0000\n"
+"PO-Revision-Date: 2024-03-19 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Admin Dashboard"
+msgstr "Admin Dashboard"
+
+msgid "Add Pokemon"
+msgstr "Add Pokemon"
+
+msgid "Edit Pokemon"
+msgstr "Edit Pokemon"
+
+msgid "Delete Pokemon"
+msgstr "Delete Pokemon"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Filter by Type"
+msgstr "Filter by Type"
+
+msgid "Number"
+msgstr "Number"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "English"
+msgstr "English"
+
+msgid "Spanish"
+msgstr "Spanish" 

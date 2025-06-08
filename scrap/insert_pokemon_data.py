@@ -1,6 +1,7 @@
 import csv
 import mysql.connector
 from urllib.parse import urlparse
+import os
 
 # Database connection
 try:
@@ -40,8 +41,8 @@ def insert_pokemon_data():
                     print(f"Pokemon {number} already exists, skipping.")
                     continue
 
-                # Determine image path from URL
-                image_path = image_url if image_url else None
+                # Format image path as "Number_Name.jpg" (e.g. "1_Bulbasaur.jpg")
+                image_path = f"{number}_{name}.jpg" if image_url else None
 
                 # Insert Pokémon into the Pokemon table
                 try:
@@ -67,8 +68,13 @@ def insert_pokemon_data():
                             (number, type_id[0])
                 )
 
+        # Update all existing rows to use the "Number_Name.jpg" format
+        cursor.execute("SELECT Number, Name FROM Pokemon")
+        for (number, name) in cursor.fetchall():
+             new_path = f"{number}_{name}.jpg"
+             cursor.execute("UPDATE Pokemon SET ImagePath = %s WHERE Number = %s", (new_path, number))
         db.commit()
-        print("Data inserted successfully!")
+        print("Data inserted and updated (ImagePath) successfully!")
     except Exception as e:
         print(f"Error: {e}")
         db.rollback()

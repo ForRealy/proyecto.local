@@ -1,6 +1,6 @@
 {
     "require": {
-        "twig/twig": "^3.0",
+        "twig/twig": "^3.21",
         "twbs/bootstrap": "^5.3",
         "php-webdriver/webdriver": "^1.15",
         "firebase/php-jwt": "^6.11"
