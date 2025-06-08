@@ -50,7 +50,7 @@ Una aplicación web dinámica para gestionar y visualizar datos de Pokémon, imp
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/ForRealy/proyecto.local
-   cd pokemon-database
+   cd proyecto.local
    ```
 
 2. Instala las dependencias de PHP:
