@@ -49,7 +49,7 @@ Una aplicación web dinámica para gestionar y visualizar datos de Pokémon, imp
 
 1. Clona el repositorio:
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
+   git clone https://github.com/ForRealy/proyecto.local
    cd pokemon-database
    ```
 
