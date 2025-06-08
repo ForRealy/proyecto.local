@@ -1,152 +1,137 @@
-# Pokemon Database Web Application
+ # Pokemon Database
 
-A dynamic web application for managing and visualizing Pokemon data, built with PHP, MySQL, and modern web technologies.
+Una aplicación web dinámica para gestionar y visualizar datos de Pokémon, implementada con PHP, Bootstrap, y Twig.
 
-## Features
+## Características Implementadas
 
-- **Data Management**
-  - Web scraping of Pokemon data using Python and Selenium
-  - CRUD operations for Pokemon records
-  - Type management and relationships
-  - Image handling and storage
+- 🎨 **Frontend Moderno**
+  - Diseño responsive con Bootstrap 5
+  - Interfaz de usuario intuitiva y profesional
+  - Gráficos interactivos con Chart.js
+  - Sistema de plantillas Twig
 
-- **Authentication & Security**
-  - JWT-based authentication
-  - Secure admin panel
-  - Session management with cookies
-  - Protected API endpoints
+- 🔐 **Sistema de Autenticación Seguro**
+  - Autenticación mediante JWT
+  - Protección de rutas de administración
+  - Sesiones persistentes con tokens de refresco
+  - Panel de administración protegido
 
-- **User Interface**
-  - Responsive design using Bootstrap
-  - Interactive data visualization with Chart.js
-  - Search and filter functionality
-  - Admin dashboard for data management
+- 🌍 **Internacionalización**
+  - Soporte para español e inglés
+  - Selector de idiomas con banderas
+  - Traducciones completas de la interfaz
+  - Sistema de traducciones basado en gettext
 
-- **Internationalization**
-  - Multi-language support (English and Spanish)
-  - Language switching
-  - Translation using gettext
+- 📊 **Gestión de Datos**
+  - Panel de administración completo
+  - CRUD de Pokémon
+  - Estadísticas y gráficos
+  - Filtros y búsqueda
 
-## Technical Stack
+- 🐍 **Scraping de Datos**
+  - Scripts de Python con Selenium
+  - Extracción automática de datos
+  - Almacenamiento estructurado en base de datos
 
-- **Backend**
-  - PHP 8.0+
-  - MySQL 8.0+
-  - Apache/Nginx web server
-  - JWT for authentication
-  - gettext for internationalization
+## Requisitos del Sistema
 
-- **Frontend**
-  - HTML5, CSS3, JavaScript
-  - Bootstrap 5
-  - Chart.js for data visualization
-  - Twig templating engine
+- PHP 8.0 o superior
+- MySQL 5.7 o superior
+- Python 3.8+ (para scripts de scraping)
+- Apache/Nginx con mod_rewrite habilitado
+- Extensiones PHP:
+  - gettext
+  - pdo_mysql
+  - json
+  - session
 
-- **Development Tools**
-  - Python 3.8+ for web scraping
-  - Selenium for browser automation
-  - Composer for PHP dependencies
+## Instalación
 
-## Installation
-
-1. Clone the repository:
+1. Clona el repositorio:
    ```bash
-   git clone https://github.com/yourusername/pokemon-database.git
+   git clone [URL_DEL_REPOSITORIO]
    cd pokemon-database
    ```
 
-2. Install PHP dependencies:
+2. Instala las dependencias de PHP:
    ```bash
    composer install
    ```
 
-3. Install Python dependencies:
+3. Configura la base de datos:
+   - Crea una base de datos MySQL
+   - Importa el esquema desde `database/schema.sql`
+   - Copia `config/database.php.example` a `config/database.php`
+   - Actualiza las credenciales de la base de datos
+
+4. Configura el servidor web:
+   - Apunta el document root a la carpeta `public`
+   - Asegúrate de que `public/images` sea escribible
+   - Habilita mod_rewrite (Apache) o configura las reglas de reescritura (Nginx)
+
+5. Configura las variables de entorno:
+   - Copia `config/jwt_config.php.example` a `config/jwt_config.php`
+   - Actualiza la clave secreta JWT y otras configuraciones
+
+6. Ejecuta el script de scraping:
    ```bash
    cd scrap
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
-
-4. Configure the database:
-   - Create a MySQL database named `pokemon_db`
-   - Import the database schema from `database/schema.sql`
-   - Update database credentials in `config/database.php`
-
-5. Configure the web server:
-   - Point the document root to the `public` directory
-   - Ensure the `public/images` directory is writable
-   - Enable URL rewriting (mod_rewrite for Apache)
-
-6. Set up environment variables:
-   - Copy `config/jwt_config.php.example` to `config/jwt_config.php`
-   - Update the JWT secret key and other settings
-
-7. Run the data scraper:
-   ```bash
-   cd scrap
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv/bin/activate  # En Windows: venv\Scripts\activate
    python insert_pokemon_data.py
    ```
 
-## Usage
+## Uso
 
-1. Access the application at `http://localhost/pokemon-database`
-2. Default admin credentials:
-   - Username: admin
-   - Password: admin123
+1. Accede a la aplicación en `http://localhost/pokemon-database`
+2. Credenciales de administrador por defecto:
+   - Usuario: admin
+   - Contraseña: admin123
 
-3. Available features:
-   - Browse Pokemon list with search and filters
-   - View detailed Pokemon information
-   - Access admin panel for data management
-   - View statistics and charts
-   - Switch between languages
+3. Funcionalidades disponibles:
+   - Navegar por la lista de Pokémon
+   - Buscar y filtrar Pokémon
+   - Ver estadísticas y gráficos
+   - Gestionar datos desde el panel de administración
+   - Cambiar entre idiomas (español/inglés)
 
-## Project Structure
+## Estructura del Proyecto
 
 ```
 pokemon-database/
-├── api/                    # API endpoints
-├── config/                 # Configuration files
-├── database/              # Database schema and migrations
-├── locale/                # Translation files
-├── middleware/            # Authentication middleware
-├── public/                # Public assets
-│   ├── images/           # Pokemon images
-│   └── index.php         # Front controller
-├── scrap/                 # Python scraping scripts
-├── vendor/                # Composer dependencies
-└── views/                 # Twig templates
-    ├── admin/            # Admin panel templates
-    └── components/       # Reusable template components
+├── api/                    # Endpoints de la API
+├── config/                 # Archivos de configuración
+├── database/              # Esquema y migraciones
+├── locale/                # Archivos de traducción
+├── middleware/            # Middleware de autenticación
+├── public/                # Archivos públicos
+│   ├── images/           # Imágenes de Pokémon
+│   └── index.php         # Controlador frontal
+├── scrap/                 # Scripts de Python
+├── vendor/                # Dependencias de Composer
+└── views/                 # Plantillas Twig
+    ├── admin/            # Plantillas del panel de administración
+    └── components/       # Componentes reutilizables
 ```
 
-## Security Considerations
+## Seguridad
 
-- Change the default admin password
-- Use a strong JWT secret key
-- Enable HTTPS in production
-- Keep dependencies updated
-- Follow security best practices for file uploads
+- Cambia la contraseña de administrador por defecto
+- Usa una clave JWT segura en producción
+- Habilita HTTPS en producción
+- Mantén las dependencias actualizadas
+- Sigue las mejores prácticas de seguridad para subida de archivos
 
-## Contributing
+## Contribuir
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
+1. Haz fork del repositorio
+2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
+3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Push a la rama (`git push origin feature/AmazingFeature`)
+5. Abre un Pull Request
 
-## License
+## Licencia
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Pokemon data sourced from [Pokemon Database](https://pokemondb.net)
-- Icons and images from official Pokemon resources
-- Built with open-source technologies
+Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
 ```
 -- Crear la tabla Pokémon

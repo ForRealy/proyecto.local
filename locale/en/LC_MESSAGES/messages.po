@@ -69,4 +69,28 @@ msgid "English"
 msgstr "English"
 
 msgid "Spanish"
-msgstr "Spanish" 
+msgstr "Spanish"
+
+msgid "Pokemon Database"
+msgstr "Pokemon Database"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Pokédex"
+msgstr "Pokédex"
+
+msgid "Pokemon by Type"
+msgstr "Pokemon by Type"
+
+msgid "Pokemon List"
+msgstr "Pokemon List"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Are you sure you want to delete"
+msgstr "Are you sure you want to delete" 

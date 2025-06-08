@@ -1,0 +1,9 @@
+{% extends "base.html.twig" %}
+{% block content %}
+  <h1>Error</h1>
+  {% if mensaje is defined and mensaje is not empty %}
+    <p>{{ mensaje }}</p>
+  {% else %}
+    <p>Ha ocurrido un error. Por favor, inténtalo de nuevo.</p>
+  {% endif %}
+{% endblock %} 

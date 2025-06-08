@@ -1,0 +1,14 @@
+RewriteEngine On
+
+# Permitir acceso directo a archivos existentes
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Redirigir todas las demás solicitudes a index.php
+RewriteRule ^ index.php [QSA,L]
+
+# Asegurarse de que las imágenes sean accesibles
+<FilesMatch "\.(jpg|jpeg|png|gif|ico)$">
+    Require all granted
+</FilesMatch> 

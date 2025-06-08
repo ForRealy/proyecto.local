@@ -1,84 +1,124 @@
-{% extends "admin/admin_layout.twig" %}
+{% extends "base.html.twig" %}
 
-{% block title %}Dashboard - Panel de Administración{% endblock %}
+{% block title %}{{ 'Admin Dashboard'|trans }}{% endblock %}
 
 {% block content %}
-  <h1>Bienvenido al Panel de Administración, {{ user }}</h1>
+<div class="container">
+    <h1 class="text-center mb-4">{{ 'Admin Dashboard'|trans }}</h1>
 
-  <h2>Estadísticas de Pokémon por Tipo</h2>
-  <canvas id="pokemonChart" width="400" height="200"></canvas>
+    <div class="row">
+        <!-- Gráfico de tipos -->
+        <div class="col-md-6 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-header">
+                    <h5 class="card-title mb-0">{{ 'Pokemon by Type'|trans }}</h5>
+                </div>
+                <div class="card-body">
+                    <canvas id="typeChart"></canvas>
+                </div>
+            </div>
+        </div>
 
-  <h2>Lista de Pokémon</h2>
-  <table class="table table-striped">
-    <thead>
-      <tr>
-        <th>Número</th>
-        <th>Nombre</th>
-        <th>Imagen</th>
-        <th>Acciones</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for pokemon in pokemons %}
-        <tr>
-          <td>{{ pokemon.Number }}</td>
-          <td>{{ pokemon.Name }}</td>
-          <td><img src="/public/images/{{ pokemon.ImagePath }}" alt="{{ pokemon.Name }}" style="max-height:50px;"></td>
-          <td>
-            <a href="/admin/pokemon/editar?number={{ pokemon.Number }}" class="btn btn-sm btn-warning">Editar</a>
-          </td>
-        </tr>
-      {% else %}
-        <tr>
-          <td colspan="4">No hay Pokémon registrados.</td>
-        </tr>
-      {% endfor %}
-    </tbody>
-  </table>
+        <!-- Lista de Pokémon -->
+        <div class="col-md-6 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <h5 class="card-title mb-0">{{ 'Pokemon List'|trans }}</h5>
+                    <a href="/admin/pokemon/add" class="btn btn-primary btn-sm">
+                        <i class="fas fa-plus"></i> {{ 'Add Pokemon'|trans }}
+                    </a>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>{{ 'Number'|trans }}</th>
+                                    <th>{{ 'Name'|trans }}</th>
+                                    <th>{{ 'Image'|trans }}</th>
+                                    <th>{{ 'Actions'|trans }}</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for pokemon in pokemons %}
+                                    <tr>
+                                        <td>{{ pokemon.Number }}</td>
+                                        <td class="text-capitalize">{{ pokemon.Name }}</td>
+                                        <td>
+                                            <img src="/images/{{ pokemon.ImagePath }}" alt="{{ pokemon.Name }}" style="height: 50px;">
+                                        </td>
+                                        <td>
+                                            <div class="btn-group btn-group-sm">
+                                                <a href="/admin/pokemon/edit/{{ pokemon.Number }}" class="btn btn-outline-primary">
+                                                    <i class="fas fa-edit"></i> {{ 'Edit'|trans }}
+                                                </a>
+                                                <button type="button" class="btn btn-outline-danger" 
+                                                        onclick="confirmDelete({{ pokemon.Number }}, '{{ pokemon.Name }}')">
+                                                    <i class="fas fa-trash"></i> {{ 'Delete'|trans }}
+                                                </button>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-  <!-- Incluir Chart.js -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-  <script>
-    // Preparar etiquetas y datos para el gráfico
-    const labels = [
-  {% for type in typeCounts %}
-    "{{ type.typename }}"{% if not loop.last %}, {% endif %}
-  {% endfor %}
-];
-
-const data = [
-  {% for type in typeCounts %}
-    {{ type.count }}{% if not loop.last %}, {% endif %}
-  {% endfor %}
-];
-
-    console.log("Labels:", labels);
-    console.log("Data:", data);
-
-    const ctx = document.getElementById('pokemonChart').getContext('2d');
-    const pokemonChart = new Chart(ctx, {
-      type: 'bar',
-      data: {
-        labels: labels,
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const ctx = document.getElementById('typeChart').getContext('2d');
+    const data = {
+        labels: {{ pokemon_stats|map(p => p.type)|json_encode|raw }},
         datasets: [{
-          label: 'Cantidad de Pokémon',
-          data: data,
-          backgroundColor: 'rgba(54, 162, 235, 0.2)',
-          borderColor: 'rgba(54, 162, 235, 1)',
-          borderWidth: 1
+            label: '{{ "Pokemon by Type"|trans }}',
+            data: {{ pokemon_stats|map(p => p.count)|json_encode|raw }},
+            backgroundColor: [
+                '#A8A878', // Normal
+                '#F08030', // Fire
+                '#6890F0', // Water
+                '#F8D030', // Electric
+                '#78C850', // Grass
+                '#98D8D8', // Ice
+                '#C03028', // Fighting
+                '#A040A0', // Poison
+                '#E0C068', // Ground
+                '#A890F0', // Flying
+                '#F85888', // Psychic
+                '#A8B820', // Bug
+                '#B8A038', // Rock
+                '#705898', // Ghost
+                '#7038F8', // Dragon
+                '#705848', // Dark
+                '#B8B8D0', // Steel
+                '#EE99AC'  // Fairy
+            ]
         }]
-      },
-      options: {
-        scales: {
-          y: {
-            beginAtZero: true,
-            ticks: {
-              stepSize: 1
+    };
+
+    new Chart(ctx, {
+        type: 'pie',
+        data: data,
+        options: {
+            responsive: true,
+            plugins: {
+                legend: {
+                    position: 'right'
+                }
             }
-          }
         }
-      }
     });
-  </script>
+});
+
+function confirmDelete(number, name) {
+    if (confirm('{{ "Are you sure you want to delete"|trans }} ' + name + '?')) {
+        window.location.href = '/admin/pokemon/delete/' + number;
+    }
+}
+</script>
 {% endblock %}
